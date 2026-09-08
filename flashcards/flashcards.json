@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What are the four Centor criteria used to estimate the probability of strep pharyngitis?",
+    "back": "Fever by history, tonsillar exudate, tender anterior cervical adenopathy, and absence of cough. Each present feature scores one point. The modified McIsaac version adds one point for age under 15 and subtracts one point for age 45 or older."
+  },
+  {
+    "id": 2,
+    "domain": "acute_care_and_diagnosis",
+    "front": "A patient has a Centor score of 1. What is the next step?",
+    "back": "No testing and no antibiotics are needed. A score of 0 or 1 means strep is unlikely and the sore throat is almost certainly viral. Symptomatic treatment is appropriate."
+  },
+  {
+    "id": 3,
+    "domain": "acute_care_and_diagnosis",
+    "front": "A patient has a Centor score of 3. What is the next step?",
+    "back": "Order a rapid antigen detection test or throat culture. Antibiotics should only be given if the test result is positive. Testing before treating is the safer and more defensible approach."
+  },
+  {
+    "id": 4,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why is cough considered a clue against strep pharyngitis?",
+    "back": "Group A Streptococcus pharyngitis classically spares the lower respiratory tract. A prominent cough points toward a viral cause instead, which is why absence of cough is one of the Centor criteria that favors strep."
+  },
+  {
+    "id": 5,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the first line antibiotic for confirmed group A strep pharyngitis?",
+    "back": "Penicillin V or amoxicillin for ten days. Cephalosporins or macrolides are used in patients with a penicillin allergy."
+  },
+  {
+    "id": 6,
+    "domain": "acute_care_and_diagnosis",
+    "front": "A patient with sore throat has drooling, a muffled hot potato voice, trismus, and uvular deviation. What should you suspect?",
+    "back": "Peritonsillar abscess. This needs urgent drainage rather than routine oral antibiotics alone, so the patient should be referred for incision and drainage or aspiration."
+  },
+  {
+    "id": 7,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is double sickening and why does it matter?",
+    "back": "Double sickening is when a patient with a viral illness starts improving and then worsens again several days later. It is a classic sign of secondary bacterial infection, most often tested in the context of sinusitis but relevant across several respiratory illnesses."
+  },
+  {
+    "id": 8,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What three symptom patterns suggest bacterial rather than viral acute sinusitis?",
+    "back": "Symptoms lasting ten days or more without improvement, severe symptoms with high fever and purulent discharge for at least three to four consecutive days at onset, or double sickening after initial improvement around day five or six."
+  },
+  {
+    "id": 9,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Does the color of nasal discharge reliably distinguish viral from bacterial sinusitis?",
+    "back": "No. Purulent or colored discharge can occur in both viral and bacterial sinusitis, so discharge color alone should not be used to diagnose bacterial infection or justify antibiotics."
+  },
+  {
+    "id": 10,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the first line antibiotic for bacterial acute sinusitis?",
+    "back": "Amoxicillin-clavulanate. It is preferred over amoxicillin alone because it better covers beta-lactamase producing organisms."
+  },
+  {
+    "id": 11,
+    "domain": "acute_care_and_diagnosis",
+    "front": "A patient with sinusitis develops periorbital swelling, vision changes, and severe headache. What should you do?",
+    "back": "Suspect orbital or intracranial extension of the sinus infection. This requires urgent CT imaging and urgent referral rather than routine outpatient antibiotic management."
+  },
+  {
+    "id": 12,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What three findings are required to diagnose acute otitis media?",
+    "back": "Acute onset of symptoms, a middle ear effusion confirmed on otoscopy such as a bulging tympanic membrane or air-fluid level, and signs of middle ear inflammation such as marked erythema or new onset otalgia."
+  },
+  {
+    "id": 13,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Is a red tympanic membrane alone enough to diagnose acute otitis media?",
+    "back": "No. Erythema without a confirmed middle ear effusion is not sufficient for the diagnosis. Crying alone can redden the eardrum, so effusion must be documented."
+  },
+  {
+    "id": 14,
+    "domain": "acute_care_and_diagnosis",
+    "front": "In which age groups and severity levels is watchful waiting appropriate for acute otitis media?",
+    "back": "Children 6 months to 2 years with unilateral mild disease and no perforation, and children 2 years or older with mild bilateral or unilateral disease, as long as follow-up in 48 to 72 hours is assured."
+  },
+  {
+    "id": 15,
+    "domain": "acute_care_and_diagnosis",
+    "front": "When should amoxicillin-clavulanate be used instead of amoxicillin for acute otitis media?",
+    "back": "When the child received amoxicillin in the past 30 days, has concurrent conjunctivitis, or has a history of recurrent acute otitis media that did not respond to amoxicillin."
+  },
+  {
+    "id": 16,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What exam finding is classic for otitis externa but not otitis media?",
+    "back": "Pain with tragal traction or pinna manipulation. Otitis externa is an infection of the ear canal skin, so manipulating the outer ear reproduces the pain, unlike otitis media."
+  },
+  {
+    "id": 17,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the first line treatment for uncomplicated otitis externa?",
+    "back": "Topical drops combining an antibiotic and a corticosteroid, such as ciprofloxacin-dexamethasone. Oral antibiotics are not first line because this is a localized skin infection of the canal."
+  },
+  {
+    "id": 18,
+    "domain": "acute_care_and_diagnosis",
+    "front": "A diabetic patient has severe ear pain, granulation tissue in the canal, and possible cranial nerve findings. What is the diagnosis and next step?",
+    "back": "Malignant, or necrotizing, otitis externa. This requires urgent imaging and IV antibiotics rather than outpatient topical drops, since it can extend to the skull base."
+  },
+  {
+    "id": 19,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How long can a cough from acute bronchitis reasonably last?",
+    "back": "Up to three weeks. Acute bronchitis is a clinical diagnosis of cough with or without sputum in a patient without evidence of pneumonia."
+  },
+  {
+    "id": 20,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Should antibiotics be given for acute bronchitis with purulent sputum but normal vitals and a clear lung exam?",
+    "back": "No. Purulent sputum reflects airway inflammation, not bacterial infection, and antibiotics do not shorten the illness. Symptomatic treatment is the correct answer."
+  },
+  {
+    "id": 21,
+    "domain": "acute_care_and_diagnosis",
+    "front": "When is chest x-ray indicated in a patient with acute cough?",
+    "back": "When pneumonia is suspected based on abnormal vital signs such as fever or tachypnea, or focal lung exam findings such as crackles, egophony, or dullness to percussion. Routine bronchitis does not need imaging."
+  },
+  {
+    "id": 22,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What does the CURB-65 score assess and what are its five criteria?",
+    "back": "It estimates severity of community-acquired pneumonia and guides site of care. One point each for confusion, blood urea nitrogen greater than 19, respiratory rate 30 or higher, systolic blood pressure below 90 or diastolic below 60, and age 65 or older."
+  },
+  {
+    "id": 23,
+    "domain": "acute_care_and_diagnosis",
+    "front": "A patient with CAP has a CURB-65 score of 0. Where should they be treated?",
+    "back": "Outpatient. A score of 0 or 1 supports outpatient management with oral antibiotics and close follow-up."
+  },
+  {
+    "id": 24,
+    "domain": "acute_care_and_diagnosis",
+    "front": "A patient with CAP has a CURB-65 score of 4. Where should they be treated?",
+    "back": "Hospitalization is indicated, and a score of 4 or 5 raises the question of ICU level care given the high severity of illness."
+  },
+  {
+    "id": 25,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the first line outpatient antibiotic for a healthy patient with CAP and no comorbidities?",
+    "back": "A macrolide, such as azithromycin, or doxycycline. This differs from patients with comorbidities who need broader coverage."
+  },
+  {
+    "id": 26,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What antibiotic regimen is preferred for an outpatient with CAP who has comorbidities like diabetes or COPD?",
+    "back": "A respiratory fluoroquinolone, or a beta-lactam combined with a macrolide. Comorbidities increase risk of drug-resistant or atypical pathogens, so broader coverage is used."
+  },
+  {
+    "id": 27,
+    "domain": "acute_care_and_diagnosis",
+    "front": "A patient with CAP is not improving after 72 hours of appropriate antibiotics. What should you consider?",
+    "back": "Treatment failure, an alternate diagnosis, or a complication such as a parapneumonic effusion. Repeat evaluation, often with imaging, is warranted rather than simply waiting longer."
+  },
+  {
+    "id": 28,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the initial treatment for a moderate to severe asthma exacerbation?",
+    "back": "A short-acting beta agonist combined with systemic corticosteroids. Peak flow or spirometry, when available, will show reduced values compared to the patient's personal best."
+  },
+  {
+    "id": 29,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What three cardinal features suggest antibiotics should be added to bronchodilators and steroids in a COPD exacerbation?",
+    "back": "Increased dyspnea, increased sputum volume, and increased sputum purulence. Antibiotics are added when all three are present, or when only two are present as long as purulence is one of them. One feature alone, or two features without purulence, favors bronchodilators and steroids without antibiotics."
+  },
+  {
+    "id": 30,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Name four warning signs that mandate emergency department transfer during an asthma or COPD exacerbation.",
+    "back": "Inability to speak in full sentences, use of accessory muscles, a silent chest on auscultation, and altered mental status or oxygen saturation that fails to improve with initial treatment."
+  },
+  {
+    "id": 31,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What exam findings help distinguish allergic rhinitis from an infectious cause?",
+    "back": "Pale, boggy nasal turbinates and allergic shiners, which are dark circles under the eyes from venous congestion, along with a personal or family history of atopy, asthma, or eczema."
+  },
+  {
+    "id": 32,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the single most effective monotherapy for moderate to severe or persistent allergic rhinitis?",
+    "back": "An intranasal corticosteroid. Second generation oral antihistamines are also first line but are generally less effective than intranasal steroids for persistent symptoms."
+  },
+  {
+    "id": 33,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the initial first aid step for anterior epistaxis?",
+    "back": "Continuous direct pressure by pinching the soft cartilaginous part of the nose for ten to fifteen minutes while the patient leans forward, to avoid swallowing blood. Topical vasoconstrictors like oxymetazoline can be added if pressure alone fails."
+  },
+  {
+    "id": 34,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Where does most anterior epistaxis originate?",
+    "back": "Kiesselbach's plexus, an anastomosis of blood vessels on the anterior nasal septum. This is the most common source of nosebleeds seen in ambulatory practice."
+  },
+  {
+    "id": 35,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What features suggest posterior rather than anterior epistaxis, and what is the management?",
+    "back": "Heavier bleeding that is hard to control with anterior pressure, and bleeding from both nostrils or into the posterior pharynx. This usually requires ENT referral and posterior packing or arterial intervention."
+  },
+  {
+    "id": 36,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What underlying causes should be considered in a patient with recurrent or severe epistaxis?",
+    "back": "Uncontrolled hypertension, anticoagulant or antiplatelet medication use, an underlying bleeding disorder, or, rarely, a nasal or sinus mass."
+  },
+  {
+    "id": 37,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the classic symptom triad of infectious mononucleosis?",
+    "back": "Fever, pharyngitis, and posterior cervical or generalized lymphadenopathy. Profound fatigue and sometimes splenomegaly frequently accompany the triad."
+  },
+  {
+    "id": 38,
+    "domain": "acute_care_and_diagnosis",
+    "front": "A patient treated with amoxicillin for presumed strep throat develops a diffuse rash. What diagnosis should you now suspect?",
+    "back": "Infectious mononucleosis. A rash after amoxicillin or ampicillin in a patient with pharyngitis is a classic clue that the true diagnosis is EBV mononucleosis rather than strep."
+  },
+  {
+    "id": 39,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How reliable is the monospot test in the first week of infectious mononucleosis?",
+    "back": "It can be falsely negative, especially in younger children. A peripheral smear showing atypical lymphocytes can support the diagnosis when suspicion remains high despite a negative monospot."
+  },
+  {
+    "id": 40,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How long should a patient with infectious mononucleosis avoid contact sports and heavy lifting, and why?",
+    "back": "At least three to four weeks, due to the risk of splenic rupture. This precaution applies even if the spleen is not palpable on exam."
+  },
+  {
+    "id": 41,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the classic cough description in croup?",
+    "back": "A barking, seal-like cough with inspiratory stridor and hoarseness, often worse at night. It typically affects children between six months and three years."
+  },
+  {
+    "id": 42,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What x-ray finding is associated with croup, and is imaging required?",
+    "back": "The steeple sign from subglottic narrowing. Imaging is not required when the clinical picture is clear and is reserved for atypical presentations."
+  },
+  {
+    "id": 43,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How is mild croup without stridor at rest treated?",
+    "back": "Cool mist or cool air exposure along with a single dose of oral dexamethasone to reduce airway inflammation."
+  },
+  {
+    "id": 44,
+    "domain": "acute_care_and_diagnosis",
+    "front": "A child with croup has stridor at rest and retractions. What additional treatment is needed?",
+    "back": "Nebulized racemic epinephrine in addition to steroids, followed by observation for two to four hours to watch for rebound symptoms as the epinephrine effect wears off."
+  },
+  {
+    "id": 45,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What are the three stages of pertussis in order?",
+    "back": "The catarrhal stage, which looks like a mild cold and lasts one to two weeks and is when the patient is most contagious. The paroxysmal stage with severe coughing fits and an inspiratory whoop. The convalescent stage with gradual resolution over weeks to months."
+  },
+  {
+    "id": 46,
+    "domain": "acute_care_and_diagnosis",
+    "front": "During which stage of pertussis is a patient most contagious but least likely to be correctly diagnosed?",
+    "back": "The catarrhal stage, because it resembles a mild common cold with rhinorrhea and low grade fever, before the characteristic paroxysmal cough develops."
+  },
+  {
+    "id": 47,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the diagnostic test of choice for suspected pertussis, and when is it most sensitive?",
+    "back": "PCR of a nasopharyngeal swab. It is most sensitive early in the illness, particularly during the catarrhal and early paroxysmal stages."
+  },
+  {
+    "id": 48,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the first line treatment for pertussis and who else should receive it?",
+    "back": "A macrolide such as azithromycin. Close contacts, especially infants and pregnant women in their third trimester, should receive post-exposure prophylaxis with a macrolide regardless of their own vaccination status."
+  },
+  {
+    "id": 49,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why is pertussis treatment still recommended even after the paroxysmal stage has started?",
+    "back": "Because by that point antibiotics mainly limit spread to others rather than shorten the patient's own illness, since treatment is most effective at altering the disease course when given during the catarrhal stage."
+  },
+  {
+    "id": 50,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the appropriate management of a straightforward common cold in an adult?",
+    "back": "Supportive care only: fluids, rest, saline nasal irrigation, and over-the-counter analgesics or decongestants as needed. Antibiotics are not indicated because the common cold is viral."
+  },
+  {
+    "id": 51,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How long can a cough persist after a common cold without indicating a new infection?",
+    "back": "Up to three weeks. A lingering cough after resolution of other cold symptoms does not by itself mean a new or bacterial infection has developed."
+  },
+  {
+    "id": 52,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What does a watchful waiting approach for acute sinusitis involve?",
+    "back": "Symptomatic treatment for seven days before starting antibiotics in patients with mild disease, since most cases of acute sinusitis resolve without antibiotic therapy."
+  },
+  {
+    "id": 53,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why is otitis externa not treated with oral antibiotics as first line therapy?",
+    "back": "Because it is a localized infection of the ear canal skin and soft tissue rather than a systemic or middle ear infection, so topical antibiotic-steroid drops are more effective and appropriate."
+  },
+  {
+    "id": 54,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What vital sign and exam findings raise suspicion for community-acquired pneumonia over simple bronchitis?",
+    "back": "Fever, tachypnea, tachycardia, or focal lung findings such as crackles, egophony, or dullness to percussion. These findings should prompt a chest x-ray to confirm pneumonia."
+  },
+  {
+    "id": 55,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What triggers commonly precipitate an asthma exacerbation?",
+    "back": "Upper respiratory infection, allergen exposure, or exercise. These common triggers help explain the acute onset of wheeze, chest tightness, and dyspnea."
+  },
+  {
+    "id": 56,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What smoking-related history is typical in a patient presenting with a COPD exacerbation?",
+    "back": "A known diagnosis of COPD with a significant smoking history, presenting with increased dyspnea, increased sputum volume, and increased sputum purulence compared to baseline."
+  },
+  {
+    "id": 57,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Besides oral antihistamines and intranasal steroids, what other therapies help allergic rhinitis?",
+    "back": "Intranasal antihistamines and leukotriene receptor antagonists as adjuncts or alternatives, and allergy testing with consideration of immunotherapy for symptoms that persist despite standard therapy."
+  },
+  {
+    "id": 58,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What CURB-65 score should prompt urgent escalation beyond routine outpatient pneumonia care?",
+    "back": "A score of 2 or higher. This suggests need for a short inpatient stay or closely supervised care, and a score of 3 or higher points toward hospitalization."
+  },
+  {
+    "id": 59,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the overall theme for deciding between outpatient symptomatic care and escalation across acute respiratory and ENT complaints?",
+    "back": "Most complaints are viral, self-limited, and respond to reassurance and symptomatic treatment, while specific validated criteria and red flags identify the smaller group of patients needing antibiotics, imaging, or urgent referral."
+  },
+  {
+    "id": 60,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What are the Ottawa Ankle Rules criteria for ordering an x-ray?",
+    "back": "Pain in the malleolar zone plus one of: bone tenderness at the posterior edge or tip of the lateral malleolus, bone tenderness at the posterior edge or tip of the medial malleolus, or inability to bear weight for four steps both right after injury and in the clinic."
+  },
+  {
+    "id": 61,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What do the Ottawa Foot Rules add to the ankle rules?",
+    "back": "Pain in the midfoot zone plus bone tenderness at the base of the fifth metatarsal, bone tenderness at the navicular, or inability to bear weight for four steps. They cover midfoot injuries separately from the ankle criteria."
+  },
+  {
+    "id": 62,
+    "domain": "acute_care_and_diagnosis",
+    "front": "List the Ottawa Knee Rules criteria for imaging.",
+    "back": "Age 55 or older, isolated tenderness of the patella, tenderness at the fibular head, inability to flex the knee to 90 degrees, or inability to bear weight for four steps. Any one criterion means an x-ray is indicated."
+  },
+  {
+    "id": 63,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How are ankle sprains graded?",
+    "back": "Grade 1 is mild stretching with full weight bearing. Grade 2 is partial tearing with pain on weight bearing. Grade 3 is complete rupture with instability and inability to bear weight."
+  },
+  {
+    "id": 64,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why is a Jones fracture treated differently from a fifth metatarsal avulsion fracture?",
+    "back": "A Jones fracture occurs at the metaphyseal-diaphyseal junction, an area with poor blood supply, giving it a high nonunion risk. It usually needs orthopedic referral and non-weight-bearing care, unlike an avulsion fracture which heals well in a walking boot."
+  },
+  {
+    "id": 65,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why do Salter-Harris fractures need extra caution in children?",
+    "back": "They involve the growth plate and can disturb future bone growth. Any child with point tenderness over a growth plate after trauma needs imaging even if the film looks normal."
+  },
+  {
+    "id": 66,
+    "domain": "acute_care_and_diagnosis",
+    "front": "List red flags for acute low back pain that warrant imaging.",
+    "back": "Age over 50 with new pain, unexplained weight loss, cancer history, fever, IV drug use, immunosuppression, significant trauma, saddle anesthesia, new bowel or bladder dysfunction, and progressive neurologic deficit."
+  },
+  {
+    "id": 67,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is cauda equina syndrome and how is it managed?",
+    "back": "A surgical emergency with bilateral leg weakness, saddle anesthesia, and new urinary retention or incontinence. It requires immediate MRI and emergent neurosurgical or spine surgery consultation to prevent permanent deficit."
+  },
+  {
+    "id": 68,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What presentation suggests spinal epidural abscess rather than simple back pain?",
+    "back": "Fever with severe back pain, sometimes with neurologic deficit, especially in patients with recent spinal procedures, IV drug use, or bacteremia. Fever plus new back pain should always raise this suspicion."
+  },
+  {
+    "id": 69,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the first line management for acute low back pain without red flags?",
+    "back": "Activity as tolerated, short courses of NSAIDs, and reassurance that most episodes improve within four to six weeks. Bed rest is discouraged because it delays recovery."
+  },
+  {
+    "id": 70,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Describe the classic presentation of gout.",
+    "back": "Rapid onset of intense pain, swelling, and erythema, most often at the first metatarsophalangeal joint (podagra). Attacks often start overnight and are triggered by alcohol, purine rich foods, dehydration, or diuretics."
+  },
+  {
+    "id": 71,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What crystals are seen in gout versus pseudogout on synovial fluid analysis?",
+    "back": "Gout shows needle shaped, negatively birefringent monosodium urate crystals. Pseudogout shows rhomboid shaped, positively birefringent calcium pyrophosphate crystals."
+  },
+  {
+    "id": 72,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What findings should raise concern for septic arthritis?",
+    "back": "An acutely hot, swollen, painful single joint with fever and severe restriction of range of motion with any attempted movement. Risk factors include prosthetic joints, IV drug use, immunosuppression, and recent joint injection."
+  },
+  {
+    "id": 73,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What synovial fluid studies should be sent when septic arthritis is suspected?",
+    "back": "Cell count, gram stain, culture, and crystal analysis. Arthrocentesis is mandatory whenever septic arthritis is a concern."
+  },
+  {
+    "id": 74,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Can gout and septic arthritis occur in the same joint at the same time?",
+    "back": "Yes. Finding crystals on aspiration does not rule out infection, particularly in patients with chronic tophaceous gout, so clinical suspicion should still guide further workup."
+  },
+  {
+    "id": 75,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What synovial white blood cell count strongly suggests joint infection?",
+    "back": "Above roughly 50,000 per microliter strongly suggests infection, but lower counts do not exclude it. Septic arthritis should never be ruled out on cell count alone if suspicion remains high."
+  },
+  {
+    "id": 76,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is reactive arthritis and what typically triggers it?",
+    "back": "An asymmetric oligoarthritis of large weight bearing joints following a GI or GU infection by one to four weeks. Common triggers include Chlamydia, Salmonella, Shigella, Yersinia, and Campylobacter, sometimes with conjunctivitis and urethritis."
+  },
+  {
+    "id": 77,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the first line management for most tendinitis?",
+    "back": "Activity modification, ice, and a structured stretching and strengthening program. Most tendinopathy responds to load management rather than prolonged rest."
+  },
+  {
+    "id": 78,
+    "domain": "acute_care_and_diagnosis",
+    "front": "When should septic bursitis be suspected?",
+    "back": "When a bursa is warm, red, and tender with fever. Aspiration is needed to distinguish infection from simple inflammatory bursitis before considering a steroid injection."
+  },
+  {
+    "id": 79,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How does cellulitis differ from an abscess on exam?",
+    "back": "Cellulitis is spreading erythema, warmth, and tenderness without a distinct fluctuant collection. An abscess is a localized, fluctuant, pus filled pocket."
+  },
+  {
+    "id": 80,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the primary treatment for a skin abscess?",
+    "back": "Incision and drainage. Antibiotics alone are not sufficient for a well formed abscess, though antibiotics are added when there is surrounding cellulitis, fever, immunosuppression, or a high risk location."
+  },
+  {
+    "id": 81,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What findings suggest necrotizing fasciitis rather than simple cellulitis?",
+    "back": "Pain dramatically out of proportion to visible skin findings, rapid progression, skin necrosis, bullae, crepitus, or systemic toxicity. It requires emergent surgical debridement and broad spectrum antibiotics."
+  },
+  {
+    "id": 82,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What distribution pattern points to contact dermatitis from jewelry versus a plant?",
+    "back": "Jewelry causes a rash confined to earlobes or a wrist. Plant contact, such as poison ivy, causes a linear, streaky rash where the plant brushed the skin."
+  },
+  {
+    "id": 83,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Describe classic psoriasis plaques and the Auspitz sign.",
+    "back": "Well demarcated, erythematous plaques with silvery white scale on extensor surfaces, scalp, and lower back. The Auspitz sign is pinpoint bleeding when the scale is removed."
+  },
+  {
+    "id": 84,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What joint finding in a psoriasis patient suggests psoriatic arthritis?",
+    "back": "New joint pain and swelling, sometimes with dactylitis, a diffusely swollen sausage digit. This combination should prompt evaluation for psoriatic arthritis."
+  },
+  {
+    "id": 85,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is first line treatment for comedonal acne versus severe nodulocystic acne?",
+    "back": "Comedonal acne is treated with topical retinoids first line. Severe nodulocystic acne that risks scarring may need oral isotretinoin, which requires pregnancy prevention counseling given its teratogenicity."
+  },
+  {
+    "id": 86,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Describe the classic appearance of tinea corporis.",
+    "back": "An annular, scaling plaque with central clearing and an active, slightly raised border. A KOH prep showing branching hyphae supports the diagnosis."
+  },
+  {
+    "id": 87,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why does tinea capitis require oral rather than topical antifungal therapy?",
+    "back": "Topical agents do not penetrate the hair follicle adequately, so oral antifungal therapy is needed to clear the infection."
+  },
+  {
+    "id": 88,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What are the classic features of scabies and how are close contacts managed?",
+    "back": "Intense pruritus worse at night, small papules, vesicles, and burrows in the finger webs, wrists, axillae, and groin. Household contacts should be treated at the same time even if asymptomatic, since incubation can take weeks."
+  },
+  {
+    "id": 89,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the first line treatment for scabies?",
+    "back": "Topical permethrin applied from the neck down and left on for the recommended duration before washing off."
+  },
+  {
+    "id": 90,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Describe the classic presentation of herpes zoster.",
+    "back": "A painful, vesicular rash in a dermatomal distribution that does not cross the midline, often preceded by pain or paresthesia for one to several days."
+  },
+  {
+    "id": 91,
+    "domain": "acute_care_and_diagnosis",
+    "front": "When is antiviral therapy most effective for herpes zoster?",
+    "back": "When started within 72 hours of rash onset. Early treatment reduces severity and duration of symptoms and lowers the risk of postherpetic neuralgia."
+  },
+  {
+    "id": 92,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What does Hutchinson's sign in herpes zoster indicate?",
+    "back": "Zoster involving the tip of the nose suggests nasociliary nerve involvement and raises concern for ocular involvement, warranting urgent ophthalmology referral."
+  },
+  {
+    "id": 93,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What does the A in the ABCDE mnemonic for pigmented lesions stand for?",
+    "back": "Asymmetry, meaning one half of the lesion does not match the other half. This is one feature that raises concern for melanoma."
+  },
+  {
+    "id": 94,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What does the B in ABCDE stand for and why does it matter?",
+    "back": "Border, referring to irregular, notched, or poorly defined edges. An irregular border is a warning sign for melanoma rather than a benign nevus."
+  },
+  {
+    "id": 95,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What does the C and D in ABCDE stand for?",
+    "back": "Color describes variation within a single lesion, including brown, black, red, white, or blue shades. Diameter greater than six millimeters raises concern, though smaller melanomas can occur."
+  },
+  {
+    "id": 96,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What does the E in ABCDE stand for?",
+    "back": "Evolving, meaning any change in size, shape, color, or new symptoms such as bleeding or itching over time. Any lesion with several ABCDE features warrants biopsy or dermatology referral."
+  },
+  {
+    "id": 97,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why should wounds be irrigated before closure?",
+    "back": "Thorough irrigation with normal saline or tap water reduces bacterial contamination and lowers infection risk before the wound is closed."
+  },
+  {
+    "id": 98,
+    "domain": "acute_care_and_diagnosis",
+    "front": "When should a wound be left open or closed in a delayed fashion instead of primarily closed?",
+    "back": "Highly contaminated wounds, bite wounds, and wounds beyond the typical closure window (roughly six to eight hours on the extremities or trunk, longer on the face due to its excellent blood supply) should avoid primary closure, since it increases infection risk."
+  },
+  {
+    "id": 99,
+    "domain": "acute_care_and_diagnosis",
+    "front": "When does a clean minor wound need a tetanus booster?",
+    "back": "If more than ten years have passed since the last dose. For a dirty or high risk wound, that threshold drops to five years, and tetanus immune globulin may also be needed if vaccination history is incomplete."
+  },
+  {
+    "id": 100,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How does suture removal timing differ by body location?",
+    "back": "Facial sutures are typically removed earlier, around five to seven days, to minimize scarring. Sutures over joints or high tension areas like the back stay in longer, around ten to fourteen days, to avoid dehiscence."
+  },
+  {
+    "id": 101,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why are cat bites especially prone to infection?",
+    "back": "Cat bites cause narrow, deep punctures that inoculate bacteria deeply while being difficult to irrigate adequately, raising infection risk compared to other bite types."
+  },
+  {
+    "id": 102,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What organism is associated with human bites and how are they typically managed?",
+    "back": "Human bites carry risk of mixed flora including Eikenella corrodens and are generally treated with prophylactic antibiotics such as amoxicillin-clavulanate given the high infection risk."
+  },
+  {
+    "id": 103,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is a closed fist injury or fight bite and why is it concerning?",
+    "back": "It occurs when a clenched fist strikes teeth, causing a small wound that can hide joint capsule or tendon injury. It has a low threshold for surgical evaluation because damage is easy to underestimate on exam."
+  },
+  {
+    "id": 104,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What organism is classically associated with dog and cat bites?",
+    "back": "Pasteurella multocida, which can cause rapid onset infection with significant redness and swelling within hours of the bite."
+  },
+  {
+    "id": 105,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the difference between a sprain and a strain?",
+    "back": "A sprain is a ligament injury. A strain is an injury to muscle or tendon."
+  },
+  {
+    "id": 106,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is PRICE therapy for acute soft tissue injuries?",
+    "back": "Protection, rest, ice, compression, and elevation, followed by early functional mobilization once acute pain improves rather than prolonged immobilization."
+  },
+  {
+    "id": 107,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What common conditions cause lateral and medial elbow pain from overuse?",
+    "back": "Lateral epicondylitis, known as tennis elbow, and medial epicondylitis, known as golfer's elbow. Both are diagnosed clinically by localized tenderness and pain with resisted movement."
+  },
+  {
+    "id": 108,
+    "domain": "acute_care_and_diagnosis",
+    "front": "When is a corticosteroid injection appropriate for tendinitis or bursitis?",
+    "back": "Once infection has been excluded through clinical evaluation or aspiration. A corticosteroid injection should never be given into an infected joint or bursa."
+  },
+  {
+    "id": 109,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why is marking the border of cellulitis erythema with a pen useful?",
+    "back": "It creates a visible reference point so the clinician can objectively assess whether the erythema is improving or worsening at a follow up visit."
+  },
+  {
+    "id": 110,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What antibiotic coverage differs between uncomplicated cellulitis and purulent cellulitis or abscess?",
+    "back": "Uncomplicated nonpurulent cellulitis typically targets streptococci with an agent like cephalexin. Purulent cellulitis or abscess should also cover methicillin resistant Staphylococcus aureus."
+  },
+  {
+    "id": 111,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What vertebral condition should be considered after minor trauma in an older or osteoporotic patient with sudden severe back pain?",
+    "back": "Vertebral compression fracture, which can occur even after a low energy fall from standing height in patients with osteoporosis risk factors."
+  },
+  {
+    "id": 112,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the key clinical clue that separates gout from an infected joint at the bedside?",
+    "back": "There is no single clinical clue that reliably separates them, which is why aspiration with crystal analysis, gram stain, and culture is required whenever septic arthritis cannot be confidently excluded."
+  },
+  {
+    "id": 113,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What population is most classically affected by pseudogout?",
+    "back": "Older adults, most commonly affecting the knee, from calcium pyrophosphate crystal deposition."
+  },
+  {
+    "id": 114,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What morphology terms describe primary skin lesions?",
+    "back": "Macule, papule, plaque, vesicle, bulla, pustule, and nodule describe primary lesion types, while scale, crust, and ulceration describe secondary changes."
+  },
+  {
+    "id": 115,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why is distribution important when evaluating a rash?",
+    "back": "The pattern often points directly to a diagnosis, such as a symmetric rash on extensor surfaces suggesting psoriasis versus a dermatomal rash suggesting herpes zoster."
+  },
+  {
+    "id": 116,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the first clinical question to ask when evaluating any acute musculoskeletal or skin complaint?",
+    "back": "Whether the patient has a red flag finding that changes management, before working through the more common differential diagnoses."
+  },
+  {
+    "id": 117,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What does right upper quadrant abdominal pain point toward?",
+    "back": "The gallbladder and liver. Biliary colic and cholecystitis are top considerations, especially with fatty food intolerance, a positive Murphy sign, or known gallstones."
+  },
+  {
+    "id": 118,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the classic pain pattern of appendicitis?",
+    "back": "Vague periumbilical pain that migrates to the right lower quadrant over 12 to 24 hours, with anorexia, low grade fever, and nausea. Point tenderness at McBurney point supports the diagnosis."
+  },
+  {
+    "id": 119,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why can retrocecal appendicitis be easy to miss?",
+    "back": "It can present with flank or back pain instead of the classic right lower quadrant pattern. Pelvic appendicitis can also mimic a UTI with urinary or rectal symptoms."
+  },
+  {
+    "id": 120,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What abdominal pain pattern raises concern for mesenteric ischemia?",
+    "back": "Diffuse pain that is out of proportion to exam findings, especially in an older patient with atrial fibrillation or significant vascular disease. This needs urgent evaluation, not routine workup."
+  },
+  {
+    "id": 121,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the most common cause of acute viral gastroenteritis?",
+    "back": "Norovirus and rotavirus are the most common viral causes. They are typically self-limited within a few days and managed with supportive care."
+  },
+  {
+    "id": 122,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why are antibiotics usually avoided in bacterial gastroenteritis?",
+    "back": "They can prolong carriage of the organism. With E. coli O157:H7 specifically, antibiotics can increase the risk of hemolytic uremic syndrome."
+  },
+  {
+    "id": 123,
+    "domain": "acute_care_and_diagnosis",
+    "front": "A child develops bloody diarrhea after eating undercooked beef. What should you suspect?",
+    "back": "E. coli O157:H7 infection with risk of hemolytic uremic syndrome. This is not routine gastroenteritis and should not be treated with antibiotics."
+  },
+  {
+    "id": 124,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What are alarm features that require upper endoscopy instead of empiric GERD treatment?",
+    "back": "Dysphagia, odynophagia, unintended weight loss, gastrointestinal bleeding, iron deficiency anemia, or new symptoms in a patient over 60."
+  },
+  {
+    "id": 125,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How does duodenal ulcer pain differ from gastric ulcer pain?",
+    "back": "Duodenal ulcer pain often improves with eating and returns a few hours later. Gastric ulcer pain often worsens with eating."
+  },
+  {
+    "id": 126,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What are the two most important causes of peptic ulcer disease?",
+    "back": "Helicobacter pylori infection and chronic NSAID use. Both should be actively asked about in any patient with ulcer symptoms."
+  },
+  {
+    "id": 127,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What findings suggest a complicated peptic ulcer?",
+    "back": "Melena or hematemesis suggests bleeding, sudden severe pain suggests perforation, and early satiety or vomiting suggests gastric outlet obstruction. Any of these needs urgent evaluation."
+  },
+  {
+    "id": 128,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How does appendicitis present differently in pregnancy?",
+    "back": "The appendix is displaced upward and laterally as the uterus enlarges, so pain can present in the right upper quadrant or flank rather than the classic right lower quadrant location."
+  },
+  {
+    "id": 129,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why is appendicitis often missed in older adults?",
+    "back": "Their inflammatory response is often blunted, so they present with subtler, less localized pain and can progress to perforation before the diagnosis is suspected."
+  },
+  {
+    "id": 130,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What pain pattern suggests appendiceal perforation?",
+    "back": "Pain that suddenly worsens then transiently improves, followed by diffuse peritonitis, fever, and a rigid abdomen."
+  },
+  {
+    "id": 131,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What distinguishes uncomplicated cystitis from pyelonephritis?",
+    "back": "Cystitis presents with dysuria, frequency, urgency, and suprapubic discomfort without fever or flank pain. Pyelonephritis adds fever, chills, flank pain, and costovertebral angle tenderness."
+  },
+  {
+    "id": 132,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Which pyelonephritis patients need hospitalization for IV antibiotics?",
+    "back": "Patients who are pregnant, appear toxic, cannot tolerate oral intake, or have signs of sepsis."
+  },
+  {
+    "id": 133,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What factors make a UTI complicated rather than uncomplicated?",
+    "back": "Male sex, pregnancy, indwelling catheters, urinary tract abnormalities, immunosuppression, and recent instrumentation. These prompt a urine culture and longer treatment."
+  },
+  {
+    "id": 134,
+    "domain": "acute_care_and_diagnosis",
+    "front": "When should asymptomatic bacteriuria be treated?",
+    "back": "Only in pregnancy or before an invasive urologic procedure. Treating it in other patients does not improve outcomes and encourages antibiotic resistance."
+  },
+  {
+    "id": 135,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the classic presentation of renal colic?",
+    "back": "Sudden, severe, colicky flank pain radiating toward the groin, often with the patient unable to find a comfortable position. Nausea, vomiting, and hematuria commonly accompany it."
+  },
+  {
+    "id": 136,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the standard imaging study for suspected nephrolithiasis?",
+    "back": "Noncontrast CT is the most sensitive imaging study. Ultrasound is preferred as a first step in pregnant patients and children to avoid radiation."
+  },
+  {
+    "id": 137,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What red flags in nephrolithiasis require urgent urology involvement?",
+    "back": "Fever suggesting an infected obstructing stone, a solitary kidney, bilateral obstruction, intractable pain or vomiting despite treatment, and acute kidney injury."
+  },
+  {
+    "id": 138,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why is a fever with an obstructing kidney stone a urologic emergency?",
+    "back": "It suggests an infected obstructed system. Prompt decompression along with antibiotics is needed, since antibiotics alone cannot clear the infection while the obstruction remains."
+  },
+  {
+    "id": 139,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How are chlamydia and gonorrhea treated?",
+    "back": "Chlamydia is typically treated with doxycycline. Gonorrhea is treated with an injectable cephalosporin, with co-treatment for chlamydia considered given frequent coinfection."
+  },
+  {
+    "id": 140,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the diagnostic standard for chlamydia and gonorrhea?",
+    "back": "Nucleic acid amplification testing on urine or genital swabs."
+  },
+  {
+    "id": 141,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What are the classic exam findings of pelvic inflammatory disease?",
+    "back": "Lower abdominal pain, cervical motion tenderness, adnexal tenderness, and sometimes fever. It results from ascending infection, usually chlamydia or gonorrhea."
+  },
+  {
+    "id": 142,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What are the long term risks of untreated or repeated PID?",
+    "back": "Infertility, chronic pelvic pain, and ectopic pregnancy."
+  },
+  {
+    "id": 143,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the primary syphilis lesion called?",
+    "back": "A chancre, a painless genital ulcer."
+  },
+  {
+    "id": 144,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the classic presentation of secondary syphilis?",
+    "back": "A diffuse rash that classically involves the palms and soles, along with systemic symptoms. It follows weeks after the primary chancre."
+  },
+  {
+    "id": 145,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the treatment of choice for syphilis at every stage?",
+    "back": "Penicillin, with the dosing regimen depending on the stage of infection."
+  },
+  {
+    "id": 146,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the classic discharge and diagnostic finding of bacterial vaginosis?",
+    "back": "A thin, grayish white discharge with a fishy odor. Diagnosis uses Amsel criteria or a wet mount showing clue cells, plus a positive whiff test."
+  },
+  {
+    "id": 147,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Is bacterial vaginosis classified as a sexually transmitted infection?",
+    "back": "No. It is caused by an imbalance of normal vaginal flora rather than a single pathogen, even though it is associated with sexual activity."
+  },
+  {
+    "id": 148,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the classic presentation of candidal vaginitis?",
+    "back": "Thick, white, cottage cheese like discharge with significant itching and vulvar irritation, often without a strong odor. Diagnosis is confirmed with pseudohyphae on wet mount."
+  },
+  {
+    "id": 149,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the classic presentation of trichomoniasis?",
+    "back": "A frothy, yellow green, malodorous discharge with vulvovaginal irritation, sometimes with a strawberry appearing cervix. It is a true sexually transmitted infection caused by a protozoan."
+  },
+  {
+    "id": 150,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why is trichomoniasis treated with oral rather than topical metronidazole?",
+    "back": "Topical treatment does not reliably clear the infection from the urethra and periurethral glands, and sexual partners must be treated as well."
+  },
+  {
+    "id": 151,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How does migraine typically present?",
+    "back": "Unilateral, throbbing pain with nausea and sensitivity to light and sound, sometimes preceded by a visual aura. Attacks often last hours to a day."
+  },
+  {
+    "id": 152,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How does tension headache differ from migraine?",
+    "back": "Tension headache presents as bilateral, band like pressure without the nausea, light sensitivity, or throbbing quality typical of migraine, and is usually less disabling."
+  },
+  {
+    "id": 153,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the classic red flag headache presentation for subarachnoid hemorrhage?",
+    "back": "Sudden, severe headache reaching maximum intensity within seconds to minutes, often called the worst headache of the patient's life. It requires urgent CT."
+  },
+  {
+    "id": 154,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What headache red flags suggest a secondary cause needing urgent evaluation?",
+    "back": "Fever with neck stiffness, new neurologic deficits, worsening with Valsalva or in the morning, new headache after age 50, headache with cancer or immunosuppression, and headache after head trauma."
+  },
+  {
+    "id": 155,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the classic presentation of temporal arteritis?",
+    "back": "New headache, jaw claudication, scalp tenderness, and visual symptoms in an older adult. Untreated, it can cause permanent vision loss, so high dose steroids are started urgently before biopsy confirmation."
+  },
+  {
+    "id": 156,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the first step in evaluating a patient with dizziness?",
+    "back": "Determine whether the patient means true vertigo, a spinning sensation, versus presyncope, disequilibrium, or vague lightheadedness, since these point to different causes."
+  },
+  {
+    "id": 157,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What are the features of peripheral vertigo?",
+    "back": "Intense vertigo often triggered or worsened by position change, commonly with nausea and vomiting but no other neurologic symptoms."
+  },
+  {
+    "id": 158,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How is benign paroxysmal positional vertigo diagnosed and treated?",
+    "back": "Diagnosed with the Dix Hallpike maneuver and treated with canalith repositioning such as the Epley maneuver."
+  },
+  {
+    "id": 159,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How do vestibular neuritis and labyrinthitis differ?",
+    "back": "Vestibular neuritis presents with continuous vertigo over days, often after a viral illness, without hearing loss. Labyrinthitis is similar but includes hearing loss."
+  },
+  {
+    "id": 160,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the classic triad of Meniere disease?",
+    "back": "Episodic vertigo, hearing loss, and tinnitus, along with a sensation of ear fullness."
+  },
+  {
+    "id": 161,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What findings suggest central rather than peripheral vertigo?",
+    "back": "Additional neurologic signs such as diplopia, dysarthria, or limb ataxia, vertical or direction changing nystagmus, and a HINTS exam favoring a central lesion. These need urgent stroke workup."
+  },
+  {
+    "id": 162,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What does the HINTS exam stand for and why does it matter?",
+    "back": "Head Impulse, Nystagmus, and Test of Skew. It helps distinguish central vertigo, which can represent stroke, from benign peripheral vertigo."
+  },
+  {
+    "id": 163,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the key exam finding that distinguishes Bell's palsy from a central facial droop?",
+    "back": "Bell's palsy involves the entire side of the face including the forehead. A droop that spares the forehead points to a central cause such as stroke."
+  },
+  {
+    "id": 164,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What other causes should be considered before diagnosing idiopathic Bell's palsy?",
+    "back": "Lyme disease in endemic areas, Ramsay Hunt syndrome from herpes zoster with ear vesicles and pain, and rarely a parotid tumor if weakness is gradual rather than acute."
+  },
+  {
+    "id": 165,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the treatment for Bell's palsy and why does timing matter?",
+    "back": "Oral corticosteroids are most effective when started within 72 hours of symptom onset. Eye protection is essential because impaired blinking risks corneal injury."
+  },
+  {
+    "id": 166,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What defines a transient ischemic attack?",
+    "back": "Sudden onset of focal neurologic symptoms, such as unilateral weakness, numbness, slurred speech, or vision loss, that fully resolve, classically within an hour, without infarction on imaging."
+  },
+  {
+    "id": 167,
+    "domain": "acute_care_and_diagnosis",
+    "front": "Why is a TIA considered a medical emergency?",
+    "back": "The risk of stroke after a TIA is highest in the first 48 hours. It is a strong warning sign for an impending stroke, not a benign event to discharge without workup."
+  },
+  {
+    "id": 168,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What does the ABCD2 score estimate?",
+    "back": "Short term stroke risk after a TIA, based on age, blood pressure, clinical features, duration of symptoms, and diabetes."
+  },
+  {
+    "id": 169,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is used for secondary prevention after a TIA?",
+    "back": "Antiplatelet therapy, high intensity statin therapy, and aggressive control of blood pressure, diabetes, and other vascular risk factors. Anticoagulation replaces antiplatelet therapy if atrial fibrillation is found."
+  },
+  {
+    "id": 170,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What features in seizure history support a true seizure over syncope?",
+    "back": "A clear postictal confusion phase, along with a witnessed aura, movement pattern, loss of consciousness, tongue biting, and incontinence."
+  },
+  {
+    "id": 171,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What is the recommended neuroimaging for a first unprovoked seizure?",
+    "back": "MRI, preferably, to look for a structural cause such as a tumor, prior stroke, or vascular malformation."
+  },
+  {
+    "id": 172,
+    "domain": "acute_care_and_diagnosis",
+    "front": "How are provoked seizures managed differently from unprovoked seizures?",
+    "back": "Provoked seizures, caused by a trigger such as fever, metabolic derangement, alcohol withdrawal, or medication effect, are managed by treating the underlying cause rather than starting long term antiseizure medication."
+  },
+  {
+    "id": 173,
+    "domain": "acute_care_and_diagnosis",
+    "front": "What practical guidance is given after a first seizure besides medication decisions?",
+    "back": "Driving restrictions and safety precautions such as avoiding swimming alone, since these carry real practical and legal implications for the patient."
+  },
+  {
+    "id": 174,
+    "domain": "chronic_care_management",
+    "front": "What blood pressure defines Stage 1 hypertension under current ACC/AHA guidelines?",
+    "back": "Systolic 130 to 139 or diastolic 80 to 89. This is lower than the older JNC7 cutoffs, so do not confuse the two systems on the exam."
+  },
+  {
+    "id": 175,
+    "domain": "chronic_care_management",
+    "front": "What blood pressure defines Stage 2 hypertension?",
+    "back": "Systolic 140 or higher, or diastolic 90 or higher. Medication is started immediately alongside lifestyle changes, usually with two drugs from different classes."
+  },
+  {
+    "id": 176,
+    "domain": "chronic_care_management",
+    "front": "When is drug therapy started in Stage 1 hypertension?",
+    "back": "Only if the patient already has cardiovascular disease or a calculated ten year ASCVD risk of 10 percent or higher. Otherwise lifestyle modification alone is tried first."
+  },
+  {
+    "id": 177,
+    "domain": "chronic_care_management",
+    "front": "Why should ACE inhibitors and ARBs never be combined?",
+    "back": "Combining them increases the risk of hyperkalemia and acute kidney injury without added cardiovascular benefit. Only one agent from this class should ever be used at a time."
+  },
+  {
+    "id": 178,
+    "domain": "chronic_care_management",
+    "front": "What is preferred first line antihypertensive therapy in Black patients without heart failure or CKD?",
+    "back": "Thiazide diuretics or calcium channel blockers. These classes tend to work better than ACE inhibitors or ARBs alone as monotherapy in this population."
+  },
+  {
+    "id": 179,
+    "domain": "chronic_care_management",
+    "front": "What is the general blood pressure target for most adults, including many older adults?",
+    "back": "Below 130/80. A less strict goal may be reasonable for frail patients or those with orthostatic symptoms."
+  },
+  {
+    "id": 180,
+    "domain": "chronic_care_management",
+    "front": "Which four groups automatically qualify for statin therapy regardless of a calculated risk score?",
+    "back": "Patients with known ASCVD, patients with LDL 190 or higher, patients age 40 to 75 with diabetes, and patients age 40 to 75 without diabetes with a ten year ASCVD risk of 7.5 percent or higher."
+  },
+  {
+    "id": 181,
+    "domain": "chronic_care_management",
+    "front": "What LDL reduction does a high intensity statin achieve?",
+    "back": "50 percent or more. High intensity statins such as atorvastatin 40 to 80 mg or rosuvastatin 20 to 40 mg are used for secondary prevention and for LDL 190 or higher."
+  },
+  {
+    "id": 182,
+    "domain": "chronic_care_management",
+    "front": "What is added if LDL remains above 70 on a maximally tolerated statin in a very high risk ASCVD patient?",
+    "back": "Ezetimibe is added next. A PCSK9 inhibitor is considered if the LDL goal is still not met after ezetimibe."
+  },
+  {
+    "id": 183,
+    "domain": "chronic_care_management",
+    "front": "Is routine liver enzyme monitoring recommended after starting a statin?",
+    "back": "No. Routine monitoring is no longer recommended unless there is a specific clinical concern, since clinically significant liver injury from statins is rare."
+  },
+  {
+    "id": 184,
+    "domain": "chronic_care_management",
+    "front": "How is HFrEF defined by ejection fraction?",
+    "back": "Ejection fraction of 40 percent or less. This is the category with a proven four pillar mortality benefit regimen."
+  },
+  {
+    "id": 185,
+    "domain": "chronic_care_management",
+    "front": "How is HFpEF defined by ejection fraction?",
+    "back": "Ejection fraction of 50 percent or higher, with 41 to 49 percent considered mildly reduced heart failure."
+  },
+  {
+    "id": 186,
+    "domain": "chronic_care_management",
+    "front": "What are the four pillars of guideline directed medical therapy for HFrEF?",
+    "back": "An ARNI (or ACE inhibitor or ARB if ARNI is unavailable), a heart failure approved beta blocker, a mineralocorticoid receptor antagonist, and an SGLT2 inhibitor. All four are started and titrated together when tolerated."
+  },
+  {
+    "id": 187,
+    "domain": "chronic_care_management",
+    "front": "Do loop diuretics improve mortality in heart failure?",
+    "back": "No. Loop diuretics help with symptom control and volume management but do not change mortality, unlike the four GDMT pillars."
+  },
+  {
+    "id": 188,
+    "domain": "chronic_care_management",
+    "front": "What is the key exam trap regarding HFpEF treatment?",
+    "back": "There is no proven four drug mortality benefit pillar regimen for HFpEF like there is for HFrEF. Management centers on treating underlying causes, volume control, and SGLT2 inhibitors."
+  },
+  {
+    "id": 189,
+    "domain": "chronic_care_management",
+    "front": "Which drug class has proven benefit in HFpEF for reducing heart failure hospitalizations?",
+    "back": "SGLT2 inhibitors, such as dapagliflozin or empagliflozin. This benefit applies in HFpEF as well as HFrEF."
+  },
+  {
+    "id": 190,
+    "domain": "chronic_care_management",
+    "front": "How should chronic heart failure patients be counseled about daily monitoring?",
+    "back": "Track daily weights and report a gain of more than two to three pounds in a day immediately, since this often signals volume overload before other symptoms appear."
+  },
+  {
+    "id": 191,
+    "domain": "chronic_care_management",
+    "front": "What is the default rate control target in chronic atrial fibrillation?",
+    "back": "A resting heart rate generally below 110, achieved with a beta blocker or non dihydropyridine calcium channel blocker."
+  },
+  {
+    "id": 192,
+    "domain": "chronic_care_management",
+    "front": "What score system determines the need for anticoagulation in atrial fibrillation?",
+    "back": "The CHA2DS2-VASc score. It accounts for heart failure, hypertension, age, diabetes, prior stroke or TIA, vascular disease, and sex."
+  },
+  {
+    "id": 193,
+    "domain": "chronic_care_management",
+    "front": "At what CHA2DS2-VASc score is anticoagulation warranted?",
+    "back": "A score of two or higher in men, or three or higher in women. A score of zero in men or one in women is low risk and anticoagulation is generally not needed."
+  },
+  {
+    "id": 194,
+    "domain": "chronic_care_management",
+    "front": "Why are DOACs generally preferred over warfarin in nonvalvular atrial fibrillation?",
+    "back": "DOACs such as apixaban and rivaroxaban have a lower risk of intracranial bleeding and do not require routine INR monitoring compared to warfarin."
+  },
+  {
+    "id": 195,
+    "domain": "chronic_care_management",
+    "front": "In which atrial fibrillation patients is warfarin still required instead of a DOAC?",
+    "back": "Patients with mechanical heart valves or moderate to severe mitral stenosis, since DOACs are not adequately studied or effective in these situations."
+  },
+  {
+    "id": 196,
+    "domain": "chronic_care_management",
+    "front": "What does the ABCDE mnemonic stand for in coronary artery disease secondary prevention?",
+    "back": "Antiplatelet therapy, beta blocker, cholesterol management with a high intensity statin, control of blood pressure and diabetes, diet and daily activity, and education with smoking cessation."
+  },
+  {
+    "id": 197,
+    "domain": "chronic_care_management",
+    "front": "How long is dual antiplatelet therapy typically continued after acute coronary syndrome or stent placement?",
+    "back": "Commonly six to twelve months, after which single antiplatelet therapy is usually continued long term."
+  },
+  {
+    "id": 198,
+    "domain": "chronic_care_management",
+    "front": "What statin intensity and LDL goal applies to all patients with known coronary artery disease?",
+    "back": "A high intensity statin regardless of baseline LDL, with a goal of at least a 50 percent reduction from baseline."
+  },
+  {
+    "id": 199,
+    "domain": "chronic_care_management",
+    "front": "What is the general hemoglobin A1c goal for most nonpregnant adults with diabetes?",
+    "back": "Below 7 percent. This is individualized, tighter for younger healthy patients and looser for older adults or those with limited life expectancy."
+  },
+  {
+    "id": 200,
+    "domain": "chronic_care_management",
+    "front": "What is first line pharmacologic therapy for type 2 diabetes?",
+    "back": "Metformin plus lifestyle modification, unless contraindicated by significant renal impairment or acute illness."
+  },
+  {
+    "id": 201,
+    "domain": "chronic_care_management",
+    "front": "Down to what estimated GFR is metformin generally considered safe?",
+    "back": "An estimated GFR of 30, with dose reduction considered below 45."
+  },
+  {
+    "id": 202,
+    "domain": "chronic_care_management",
+    "front": "What drives the choice of a second diabetes agent after metformin in current guidelines?",
+    "back": "Comorbidities rather than A1c alone. Established ASCVD favors an SGLT2 inhibitor or GLP-1 agonist with proven cardiovascular benefit; heart failure or CKD favors an SGLT2 inhibitor; weight loss priority favors a GLP-1 agonist."
+  },
+  {
+    "id": 203,
+    "domain": "chronic_care_management",
+    "front": "What is the common exam trap regarding insulin initiation in type 2 diabetes?",
+    "back": "Starting insulin too early. Guidelines favor optimizing a GLP-1 agonist or SGLT2 inhibitor first in a patient without severe symptomatic hyperglycemia."
+  },
+  {
+    "id": 204,
+    "domain": "chronic_care_management",
+    "front": "When should insulin be added in type 2 diabetes?",
+    "back": "When there is severe hyperglycemia at diagnosis with symptoms like significant weight loss or ketosis, or when oral and injectable agents fail despite maximum tolerated doses."
+  },
+  {
+    "id": 205,
+    "domain": "chronic_care_management",
+    "front": "How often should a dilated eye exam be done for diabetic retinopathy screening?",
+    "back": "Annually, though it can be extended to every two years in patients with well controlled diabetes and no retinopathy on a prior exam."
+  },
+  {
+    "id": 206,
+    "domain": "chronic_care_management",
+    "front": "What two tests screen for diabetic nephropathy and how often?",
+    "back": "Annual urine albumin to creatinine ratio and estimated GFR. These detect early kidney involvement before symptoms appear."
+  },
+  {
+    "id": 207,
+    "domain": "chronic_care_management",
+    "front": "How is type 1 diabetes managed differently from type 2 from diagnosis?",
+    "back": "Type 1 diabetes requires insulin from diagnosis, typically a basal bolus regimen or insulin pump, since these patients have absolute insulin deficiency."
+  },
+  {
+    "id": 208,
+    "domain": "chronic_care_management",
+    "front": "What lab pattern confirms primary hypothyroidism?",
+    "back": "Elevated TSH with a low free T4, most commonly caused by Hashimoto thyroiditis in iodine sufficient regions."
+  },
+  {
+    "id": 209,
+    "domain": "chronic_care_management",
+    "front": "How is levothyroxine dosed and when is TSH rechecked after a dose change?",
+    "back": "Roughly 1.6 micrograms per kilogram per day in most adults, started lower in older patients or those with coronary disease. TSH is rechecked six to eight weeks after any dose change."
+  },
+  {
+    "id": 210,
+    "domain": "chronic_care_management",
+    "front": "How should levothyroxine be taken relative to food and other medications?",
+    "back": "On an empty stomach, ideally thirty minutes before breakfast, and separated from calcium, iron, and proton pump inhibitors, which impair its absorption."
+  },
+  {
+    "id": 211,
+    "domain": "chronic_care_management",
+    "front": "When is subclinical hypothyroidism treated?",
+    "back": "When TSH is above 10, in pregnant patients, or in symptomatic patients with TSH between the upper normal limit and 10, based on clinical judgment."
+  },
+  {
+    "id": 212,
+    "domain": "chronic_care_management",
+    "front": "What lab pattern confirms hyperthyroidism, and what test confirms Graves disease specifically?",
+    "back": "Suppressed TSH with elevated free T4 or T3 confirms hyperthyroidism. A positive TSH receptor antibody or diffusely increased radioactive iodine uptake confirms Graves disease."
+  },
+  {
+    "id": 213,
+    "domain": "chronic_care_management",
+    "front": "Why is methimazole generally preferred over propylthiouracil for Graves disease?",
+    "back": "Methimazole has a better safety profile overall. Propylthiouracil is reserved for the first trimester of pregnancy and thyroid storm, where its lower teratogenic risk and faster onset matter."
+  },
+  {
+    "id": 214,
+    "domain": "chronic_care_management",
+    "front": "Why is radioactive iodine avoided in certain Graves disease patients?",
+    "back": "It is avoided in pregnancy and in patients with significant Graves ophthalmopathy, since it can worsen eye disease."
+  },
+  {
+    "id": 215,
+    "domain": "chronic_care_management",
+    "front": "What two measurements does the KDIGO system use together to stage chronic kidney disease?",
+    "back": "Estimated GFR category and albuminuria category. Either measurement alone underestimates risk, so both are needed for accurate staging."
+  },
+  {
+    "id": 216,
+    "domain": "chronic_care_management",
+    "front": "What GFR range defines CKD stage G3a and G3b?",
+    "back": "G3a is GFR 45 to 59, and G3b is GFR 30 to 44. These midrange stages are where progression monitoring becomes especially important."
+  },
+  {
+    "id": 217,
+    "domain": "chronic_care_management",
+    "front": "What albuminuria level defines the A3 category?",
+    "back": "Above 300 milligrams per gram. A1 is below 30, and A2 is 30 to 300."
+  },
+  {
+    "id": 218,
+    "domain": "chronic_care_management",
+    "front": "Can a patient have significant kidney disease with a normal GFR?",
+    "back": "Yes. Elevated albuminuria alone can indicate meaningful kidney damage and risk even when GFR is still in the normal range."
+  },
+  {
+    "id": 219,
+    "domain": "chronic_care_management",
+    "front": "What two drug classes slow CKD progression, and in which patients?",
+    "back": "ACE inhibitors or ARBs in patients with albuminuria, and SGLT2 inhibitors, which slow progression independent of diabetes status."
+  },
+  {
+    "id": 220,
+    "domain": "chronic_care_management",
+    "front": "At what serum bicarbonate level is oral sodium bicarbonate started in CKD, and why?",
+    "back": "Below 22. Correcting metabolic acidosis in CKD can help slow further decline in kidney function."
+  },
+  {
+    "id": 221,
+    "domain": "chronic_care_management",
+    "front": "At what GFR is nephrology referral generally appropriate?",
+    "back": "GFR below 30, or with rapidly declining GFR or difficult to control complications regardless of GFR stage."
+  },
+  {
+    "id": 222,
+    "domain": "chronic_care_management",
+    "front": "What BMI defines obesity, and what BMI defines overweight?",
+    "back": "Obesity is BMI 30 or higher. Overweight is BMI 25 to 29.9. These cutoffs are lower in some populations such as Asian patients given higher metabolic risk at a given BMI."
+  },
+  {
+    "id": 223,
+    "domain": "chronic_care_management",
+    "front": "At what BMI is pharmacotherapy for obesity considered?",
+    "back": "BMI 30 or higher, or BMI 27 or higher with a weight related comorbidity such as diabetes, hypertension, or obstructive sleep apnea."
+  },
+  {
+    "id": 224,
+    "domain": "chronic_care_management",
+    "front": "What class of medication has become first line pharmacotherapy for obesity?",
+    "back": "GLP-1 receptor agonists and dual GLP-1/GIP agonists such as semaglutide and tirzepatide, given their strong weight loss efficacy and cardiometabolic benefits."
+  },
+  {
+    "id": 225,
+    "domain": "chronic_care_management",
+    "front": "At what BMI is bariatric surgery considered?",
+    "back": "BMI 40 or higher, or 35 or higher with a significant weight related comorbidity, when other measures have not achieved adequate results."
+  },
+  {
+    "id": 226,
+    "domain": "chronic_care_management",
+    "front": "What is the most common side effect category with GLP-1 receptor agonists?",
+    "back": "Gastrointestinal symptoms, such as nausea, vomiting, and constipation, which are the most frequent reason for dose adjustment or discontinuation."
+  },
+  {
+    "id": 227,
+    "domain": "chronic_care_management",
+    "front": "Why is obesity now managed as a chronic disease rather than a single intervention?",
+    "back": "Because weight tends to be regained once treatment stops, so ongoing pharmacotherapy and lifestyle support are required for durable results."
+  },
+  {
+    "id": 228,
+    "domain": "chronic_care_management",
+    "front": "What compelling indication favors an ACE inhibitor or ARB regardless of blood pressure class?",
+    "back": "Chronic kidney disease with albuminuria, or diabetes with albuminuria. These conditions favor ACE inhibitor or ARB use for kidney protection."
+  },
+  {
+    "id": 229,
+    "domain": "chronic_care_management",
+    "front": "How long are beta blockers continued after myocardial infarction?",
+    "back": "At least a few years, and indefinitely if the patient also has heart failure with reduced ejection fraction."
+  },
+  {
+    "id": 230,
+    "domain": "chronic_care_management",
+    "front": "What secondary causes of hypertension should prompt further workup?",
+    "back": "Young age, resistant hypertension, sudden onset, or suggestive exam findings, pointing toward causes like primary aldosteronism, renal artery stenosis, obstructive sleep apnea, CKD, or thyroid disease."
+  },
+  {
+    "id": 231,
+    "domain": "chronic_care_management",
+    "front": "Why is out of office blood pressure confirmation recommended before diagnosing hypertension?",
+    "back": "White coat effect and masked hypertension are both common, and out of office readings via home or ambulatory monitoring give a more accurate picture that changes management."
+  },
+  {
+    "id": 232,
+    "domain": "chronic_care_management",
+    "front": "What population commonly develops anemia in CKD, and how is it treated?",
+    "back": "CKD patients from reduced erythropoietin production. It is treated with iron repletion and sometimes an erythropoiesis stimulating agent once other causes of anemia are excluded."
+  },
+  {
+    "id": 233,
+    "domain": "chronic_care_management",
+    "front": "What drives secondary hyperparathyroidism in chronic kidney disease?",
+    "back": "Impaired phosphorus excretion and reduced activation of vitamin D, which together are monitored with calcium, phosphorus, parathyroid hormone, and vitamin D levels."
+  },
+  {
+    "id": 234,
+    "domain": "chronic_care_management",
+    "front": "What screening exam detects diabetic peripheral neuropathy risk?",
+    "back": "An annual comprehensive foot exam with monofilament testing, which identifies patients at risk for ulceration before it develops."
+  },
+  {
+    "id": 235,
+    "domain": "chronic_care_management",
+    "front": "What is the exam trap regarding CHA2DS2-VASc scoring?",
+    "back": "Anchoring the anticoagulation decision on only age or only heart failure status rather than calculating the full score, since several smaller risk factors combined can cross the treatment threshold."
+  },
+  {
+    "id": 236,
+    "domain": "chronic_care_management",
+    "front": "What lifestyle measures are first line for every hypertensive patient regardless of stage?",
+    "back": "The DASH diet, sodium reduction, weight loss, regular aerobic exercise, and limiting alcohol intake."
+  },
+  {
+    "id": 237,
+    "domain": "chronic_care_management",
+    "front": "What spirometry finding confirms a diagnosis of COPD?",
+    "back": "A post-bronchodilator FEV1/FVC ratio below 0.70 in a patient with compatible symptoms and risk factors. Spirometry confirms the diagnosis and tracks decline over time, but it does not by itself decide which therapy to start."
+  },
+  {
+    "id": 238,
+    "domain": "chronic_care_management",
+    "front": "How does the GOLD ABE group classify a COPD patient with 2 moderate exacerbations last year, regardless of symptom score?",
+    "back": "Group E. Two or more moderate exacerbations, or at least one hospitalization, in the prior year places a patient in Group E, which starts on LAMA-LABA combination therapy regardless of symptom burden."
+  },
+  {
+    "id": 239,
+    "domain": "chronic_care_management",
+    "front": "When is inhaled corticosteroid (ICS) added to COPD bronchodilator therapy?",
+    "back": "ICS is added when exacerbations continue despite LAMA-LABA therapy, when blood eosinophils are 300 cells per microliter or higher, or when asthma-COPD overlap is suspected. ICS is not first-line monotherapy in COPD."
+  },
+  {
+    "id": 240,
+    "domain": "chronic_care_management",
+    "front": "What is the one COPD intervention proven to slow FEV1 decline and improve survival?",
+    "back": "Smoking cessation. It is the single most effective intervention in the long-term management of COPD, more impactful than any inhaler regimen."
+  },
+  {
+    "id": 241,
+    "domain": "chronic_care_management",
+    "front": "When does long-term oxygen therapy improve survival in COPD?",
+    "back": "Only in patients with resting hypoxemia, a PaO2 of 55 mmHg or less, or 59 mmHg or less with cor pulmonale or polycythemia. Oxygen for mild hypoxemia alone does not improve survival."
+  },
+  {
+    "id": 242,
+    "domain": "chronic_care_management",
+    "front": "What is the preferred maintenance and reliever therapy for most steps of chronic asthma control today?",
+    "back": "A combination ICS-formoterol inhaler used as both daily maintenance and as-needed reliever therapy, sometimes called SMART or MART therapy. It lowers exacerbation rates compared with a short-acting beta agonist used alone."
+  },
+  {
+    "id": 243,
+    "domain": "chronic_care_management",
+    "front": "Why is short-acting beta agonist monotherapy no longer recommended for asthma at any step?",
+    "back": "SABA-only therapy without any inhaled corticosteroid is associated with higher exacerbation and mortality risk. Even mild persistent asthma should be paired with an ICS-containing inhaler."
+  },
+  {
+    "id": 244,
+    "domain": "chronic_care_management",
+    "front": "Before escalating asthma therapy for poor control, what two things should be checked first?",
+    "back": "Inhaler technique and medication adherence. Poor technique is a common and reversible cause of apparent treatment failure, so it should be confirmed before adding medication."
+  },
+  {
+    "id": 245,
+    "domain": "chronic_care_management",
+    "front": "What screening tool is used to assess risk for obstructive sleep apnea, and what score suggests referral for a sleep study?",
+    "back": "The STOP-BANG questionnaire. A score of 3 or higher suggests intermediate to high risk and warrants referral for polysomnography or home sleep apnea testing."
+  },
+  {
+    "id": 246,
+    "domain": "chronic_care_management",
+    "front": "How is OSA severity graded by AHI?",
+    "back": "Mild is 5 to 14 events per hour, moderate is 15 to 29, and severe is 30 or more events per hour on the apnea-hypopnea index."
+  },
+  {
+    "id": 247,
+    "domain": "chronic_care_management",
+    "front": "What is first-line therapy for moderate to severe obstructive sleep apnea?",
+    "back": "Continuous positive airway pressure (CPAP). It reduces daytime sleepiness, improves blood pressure control, and lowers cardiovascular risk when used consistently."
+  },
+  {
+    "id": 248,
+    "domain": "chronic_care_management",
+    "front": "What is a reasonable alternative to CPAP for mild OSA or CPAP intolerance?",
+    "back": "A mandibular advancement device fitted by a dentist. It is generally less effective than CPAP at reducing AHI but is a reasonable option for select patients."
+  },
+  {
+    "id": 249,
+    "domain": "chronic_care_management",
+    "front": "How is chronic pain defined by duration?",
+    "back": "Pain lasting longer than three months. Assessment should classify it as nociceptive, neuropathic, or mixed, and evaluate functional impact and psychosocial contributors."
+  },
+  {
+    "id": 250,
+    "domain": "chronic_care_management",
+    "front": "What are first-line medications for neuropathic pain?",
+    "back": "Gabapentinoids such as gabapentin or pregabalin, and certain antidepressants such as duloxetine or tricyclic antidepressants like nortriptyline."
+  },
+  {
+    "id": 251,
+    "domain": "chronic_care_management",
+    "front": "Are opioids first-line therapy for chronic non-cancer pain?",
+    "back": "No. Non-opioid and non-pharmacologic therapy comes first. Opioids are considered only after other options fail and require careful monitoring, including prescription drug monitoring program checks and periodic urine drug testing."
+  },
+  {
+    "id": 252,
+    "domain": "chronic_care_management",
+    "front": "Why should opioids and benzodiazepines not be co-prescribed?",
+    "back": "Because of additive respiratory depression risk. Combining the two significantly increases the risk of fatal overdose."
+  },
+  {
+    "id": 253,
+    "domain": "chronic_care_management",
+    "front": "What is the correct approach when tapering a patient off long-term opioid therapy whose risks now outweigh benefits?",
+    "back": "Taper slowly rather than stopping abruptly. Abrupt discontinuation increases risk of withdrawal and can push patients toward illicit opioid use."
+  },
+  {
+    "id": 254,
+    "domain": "chronic_care_management",
+    "front": "Is imaging required to diagnose osteoarthritis and start treatment?",
+    "back": "No. Osteoarthritis is a clinical diagnosis in a patient over 45 with activity-related joint pain, morning stiffness under 30 minutes, and reduced range of motion. Radiographic severity often does not match symptom severity."
+  },
+  {
+    "id": 255,
+    "domain": "chronic_care_management",
+    "front": "Why are topical NSAIDs preferred over oral NSAIDs for knee and hand osteoarthritis when feasible?",
+    "back": "Topical NSAIDs provide local relief with much less systemic absorption, lowering renal, cardiovascular, and gastrointestinal risk compared with oral NSAIDs."
+  },
+  {
+    "id": 256,
+    "domain": "chronic_care_management",
+    "front": "What is the concern with frequent intra-articular corticosteroid injections for osteoarthritis?",
+    "back": "Repeated frequent injections have not shown long-term structural benefit and may accelerate cartilage loss with overuse, even though they can relieve short-term flares."
+  },
+  {
+    "id": 257,
+    "domain": "chronic_care_management",
+    "front": "Do glucosamine and chondroitin have proven benefit for osteoarthritis?",
+    "back": "No. They lack consistent evidence of benefit and are not recommended as standard therapy for osteoarthritis."
+  },
+  {
+    "id": 258,
+    "domain": "chronic_care_management",
+    "front": "Which women should be screened for osteoporosis with DEXA?",
+    "back": "All women 65 and older, and younger postmenopausal women whose risk factors raise fracture risk to that of a 65-year-old."
+  },
+  {
+    "id": 259,
+    "domain": "chronic_care_management",
+    "front": "What T-score defines osteoporosis versus osteopenia?",
+    "back": "A T-score of negative 2.5 or lower defines osteoporosis. A T-score between negative 1.0 and negative 2.5 defines osteopenia, also called low bone mass."
+  },
+  {
+    "id": 260,
+    "domain": "chronic_care_management",
+    "front": "What tool estimates a patient's 10-year fracture risk using age, prior fracture, steroid use, and other factors?",
+    "back": "FRAX. It calculates 10-year probability of major osteoporotic fracture and hip fracture, with or without a femoral neck T-score, and helps decide whether an osteopenic patient needs treatment."
+  },
+  {
+    "id": 261,
+    "domain": "chronic_care_management",
+    "front": "Can a patient with osteopenia, not osteoporosis, still qualify for pharmacologic treatment?",
+    "back": "Yes. If FRAX-calculated 10-year risk reaches the treatment threshold, commonly 20% for major osteoporotic fracture or 3% for hip fracture, treatment is indicated even without an osteoporotic T-score."
+  },
+  {
+    "id": 262,
+    "domain": "chronic_care_management",
+    "front": "What are first-line agents for most patients starting osteoporosis treatment?",
+    "back": "Oral bisphosphonates such as alendronate or risedronate, taken on an empty stomach with a full glass of water while remaining upright for 30 to 60 minutes to reduce esophageal irritation."
+  },
+  {
+    "id": 263,
+    "domain": "chronic_care_management",
+    "front": "What are two rare but important risks of long-term bisphosphonate therapy?",
+    "back": "Osteonecrosis of the jaw and atypical femur fracture. These risks are why a drug holiday is considered after roughly 3 to 5 years in lower-risk patients who have responded well."
+  },
+  {
+    "id": 264,
+    "domain": "chronic_care_management",
+    "front": "What class of osteoporosis medication may be used first in patients with very high fracture risk?",
+    "back": "Anabolic agents such as teriparatide or romosozumab, generally followed by an antiresorptive agent to maintain the bone density gain."
+  },
+  {
+    "id": 265,
+    "domain": "chronic_care_management",
+    "front": "What is the anchor first-line DMARD for rheumatoid arthritis?",
+    "back": "Methotrexate, usually combined with folic acid supplementation to reduce gastrointestinal and hepatic side effects. It is contraindicated in pregnancy and significant liver disease."
+  },
+  {
+    "id": 266,
+    "domain": "chronic_care_management",
+    "front": "Why does early DMARD initiation matter in rheumatoid arthritis?",
+    "back": "Early DMARD therapy prevents irreversible joint damage. Delay in starting DMARD therapy is associated with worse long-term outcomes."
+  },
+  {
+    "id": 267,
+    "domain": "chronic_care_management",
+    "front": "What should be screened before starting a biologic DMARD or JAK inhibitor for rheumatoid arthritis?",
+    "back": "Latent tuberculosis and hepatitis B. These agents increase infection risk, so screening is required before initiation."
+  },
+  {
+    "id": 268,
+    "domain": "chronic_care_management",
+    "front": "How should chronic corticosteroids be used in rheumatoid arthritis management?",
+    "back": "Sparingly, mainly as a bridge during flares while DMARD therapy takes effect. Long-term steroid use carries risks of osteoporosis, hyperglycemia, and cardiovascular disease."
+  },
+  {
+    "id": 269,
+    "domain": "chronic_care_management",
+    "front": "What is first-line pharmacotherapy for major depressive disorder and generalized anxiety disorder?",
+    "back": "SSRIs, because of their favorable safety profile compared with older antidepressant classes. SNRIs are a reasonable first-line alternative, especially when pain symptoms coexist."
+  },
+  {
+    "id": 270,
+    "domain": "chronic_care_management",
+    "front": "How long should a patient be counseled to wait before an antidepressant trial is considered adequate?",
+    "back": "4 to 6 weeks at an adequate dose. If there is no response by then, the next step is optimizing the dose further, switching agents, or augmenting therapy."
+  },
+  {
+    "id": 271,
+    "domain": "chronic_care_management",
+    "front": "Why is close follow-up needed in the first weeks of starting an antidepressant in a patient under 25?",
+    "back": "Because of a boxed warning about increased suicidal thinking in patients under 25 during initial antidepressant treatment."
+  },
+  {
+    "id": 272,
+    "domain": "chronic_care_management",
+    "front": "Are benzodiazepines recommended for long-term maintenance therapy of generalized anxiety disorder?",
+    "back": "No. They can relieve acute anxiety symptoms but are not recommended long term because of tolerance, dependence, and fall risk in older adults. An SSRI or SNRI plus psychotherapy is the correct maintenance choice."
+  },
+  {
+    "id": 273,
+    "domain": "chronic_care_management",
+    "front": "How long should antidepressant therapy continue after remission of a first depressive episode?",
+    "back": "At least 6 to 12 months after remission to reduce relapse risk. Longer maintenance is considered after recurrent episodes."
+  },
+  {
+    "id": 274,
+    "domain": "chronic_care_management",
+    "front": "What validated tools track ongoing depression and anxiety control at follow-up visits?",
+    "back": "The PHQ-9 for depression and the GAD-7 for anxiety. Both should be reassessed periodically along with suicidality screening in higher-risk patients."
+  },
+  {
+    "id": 275,
+    "domain": "chronic_care_management",
+    "front": "What three medications are approved for alcohol use disorder?",
+    "back": "Naltrexone, acamprosate, and disulfiram. Naltrexone reduces craving and can start before abstinence, acamprosate is best started after abstinence, and disulfiram works through aversive deterrence."
+  },
+  {
+    "id": 276,
+    "domain": "chronic_care_management",
+    "front": "Why is naltrexone contraindicated in a patient with acute opioid use or on chronic opioid therapy?",
+    "back": "It can precipitate opioid withdrawal or block needed pain control, since naltrexone is an opioid antagonist."
+  },
+  {
+    "id": 277,
+    "domain": "chronic_care_management",
+    "front": "What is considered first-line medication for opioid use disorder in most office-based primary care settings?",
+    "back": "Buprenorphine, often combined with naloxone. It has a ceiling effect that lowers overdose risk and does not require enrollment in a certified opioid treatment program, unlike methadone."
+  },
+  {
+    "id": 278,
+    "domain": "chronic_care_management",
+    "front": "Why is methadone less accessible than buprenorphine for treating opioid use disorder in the United States?",
+    "back": "Methadone is a full opioid agonist that must be dispensed through a certified opioid treatment program under strict regulation, unlike buprenorphine which can be prescribed in primary care."
+  },
+  {
+    "id": 279,
+    "domain": "chronic_care_management",
+    "front": "Why must a patient complete detoxification before starting long-acting injectable naltrexone for opioid use disorder?",
+    "back": "Starting naltrexone too soon after opioid use precipitates acute withdrawal, since naltrexone blocks opioid receptors."
+  },
+  {
+    "id": 280,
+    "domain": "chronic_care_management",
+    "front": "Is counseling alone, without medication, the recommended first step for newly diagnosed opioid use disorder?",
+    "back": "No. Medication for addiction treatment (MAT) is the evidence-based standard of care and reduces mortality more than counseling alone. It should be offered to essentially all patients with opioid use disorder."
+  },
+  {
+    "id": 281,
+    "domain": "chronic_care_management",
+    "front": "Who should be offered naloxone in the context of opioid use disorder management?",
+    "back": "The patient with opioid use disorder and their household contacts, given naloxone's role in preventing fatal overdose."
+  },
+  {
+    "id": 282,
+    "domain": "chronic_care_management",
+    "front": "Does a relapse during MAT for opioid use disorder mean the medication should be discontinued?",
+    "back": "No. Relapse is common in chronic substance use disorder and does not by itself represent treatment failure requiring discontinuation of medication."
+  },
+  {
+    "id": 283,
+    "domain": "chronic_care_management",
+    "front": "What age of symptom onset is required to diagnose adult ADHD?",
+    "back": "Childhood-onset symptoms, typically before age 12, along with current impairment across more than one setting such as work and home."
+  },
+  {
+    "id": 284,
+    "domain": "chronic_care_management",
+    "front": "What is first-line pharmacotherapy for adult ADHD?",
+    "back": "Stimulant medications, including methylphenidate and amphetamine-based agents. They produce the largest effect size for core ADHD symptoms."
+  },
+  {
+    "id": 285,
+    "domain": "chronic_care_management",
+    "front": "What should be assessed before starting a stimulant for adult ADHD?",
+    "back": "Cardiovascular history, blood pressure, and heart rate, since stimulants raise heart rate and blood pressure modestly and carry a small increased cardiovascular risk."
+  },
+  {
+    "id": 286,
+    "domain": "chronic_care_management",
+    "front": "When are non-stimulant medications preferred for adult ADHD?",
+    "back": "When stimulants are contraindicated, poorly tolerated, or there is significant concern about misuse potential, such as active or recent substance use disorder. Options include atomoxetine, extended-release guanfacine, and bupropion."
+  },
+  {
+    "id": 287,
+    "domain": "chronic_care_management",
+    "front": "What comorbid conditions commonly coexist with or mimic adult ADHD and should be screened for?",
+    "back": "Mood disorders, anxiety, sleep disorders, and substance use disorder. These should be ruled out or treated alongside ADHD, since they can undermine treatment response."
+  },
+  {
+    "id": 288,
+    "domain": "chronic_care_management",
+    "front": "What percentage of predicted FEV1 defines GOLD 1 versus GOLD 4 COPD?",
+    "back": "GOLD 1 (mild) is FEV1 80% or more of predicted. GOLD 4 (very severe) is FEV1 under 30% of predicted."
+  },
+  {
+    "id": 289,
+    "domain": "chronic_care_management",
+    "front": "What defines well-controlled asthma at a routine follow-up visit?",
+    "back": "Daytime symptoms twice a week or less, no nighttime awakenings, and rescue inhaler use twice a week or less."
+  },
+  {
+    "id": 290,
+    "domain": "chronic_care_management",
+    "front": "What common comorbidities can worsen asthma control if left untreated?",
+    "back": "Allergic rhinitis and gastroesophageal reflux disease. Both should be addressed before escalating asthma medication for apparent poor control."
+  },
+  {
+    "id": 291,
+    "domain": "chronic_care_management",
+    "front": "What are two nonpharmacologic interventions offered to any COPD patient in GOLD group B or E?",
+    "back": "Pulmonary rehabilitation and vaccination against influenza, pneumococcus, COVID-19, and, in older adults, respiratory syncytial virus."
+  },
+  {
+    "id": 292,
+    "domain": "chronic_care_management",
+    "front": "What lab monitoring is required for a patient on chronic methotrexate therapy?",
+    "back": "Regular complete blood count and liver function tests, since methotrexate carries hematologic and hepatic toxicity risk."
+  },
+  {
+    "id": 293,
+    "domain": "chronic_care_management",
+    "front": "What antibodies support a diagnosis of rheumatoid arthritis alongside clinical findings?",
+    "back": "Rheumatoid factor and anti-cyclic citrullinated peptide (anti-CCP) antibodies, along with elevated inflammatory markers and symmetric small joint swelling with morning stiffness over an hour."
+  },
+  {
+    "id": 294,
+    "domain": "chronic_care_management",
+    "front": "Why does rheumatoid arthritis management include cardiovascular risk screening?",
+    "back": "Rheumatoid arthritis independently raises cardiovascular risk beyond traditional risk factors, so ongoing cardiovascular screening is part of chronic RA management."
+  },
+  {
+    "id": 295,
+    "domain": "chronic_care_management",
+    "front": "What vaccination precaution applies to rheumatoid arthritis patients on significant immunosuppression?",
+    "back": "Live vaccines should be avoided in patients on significant immunosuppressive DMARD or biologic therapy."
+  },
+  {
+    "id": 296,
+    "domain": "chronic_care_management",
+    "front": "What is a key first step before starting long-term opioid therapy for chronic pain?",
+    "back": "Check the state prescription drug monitoring program, establish a treatment agreement, and set functional goals rather than relying on pain-score-only goals."
+  },
+  {
+    "id": 297,
+    "domain": "chronic_care_management",
+    "front": "What is the recommended weight-related intervention for both osteoarthritis and obstructive sleep apnea?",
+    "back": "Weight loss. It reduces joint load and symptoms in osteoarthritis and reduces OSA severity in patients with obesity, regardless of what device therapy is chosen for OSA."
+  },
+  {
+    "id": 298,
+    "domain": "chronic_care_management",
+    "front": "Why should total joint arthroplasty be reserved for later in osteoarthritis management?",
+    "back": "It is reserved for patients with severe symptoms and functional limitation that persist despite optimized conservative management, since surgery carries risks that are not justified until conservative options are exhausted."
+  },
+  {
+    "id": 299,
+    "domain": "chronic_care_management",
+    "front": "What is the family physician's core longitudinal role across chronic pulmonary, musculoskeletal, and behavioral health conditions?",
+    "back": "Confirming diagnosis with the correct objective test, matching therapy to validated severity or risk staging rather than symptoms alone, scheduling appropriate monitoring intervals, and coordinating specialist referral at defined trigger points."
+  },
+  {
+    "id": 300,
+    "domain": "emergent_and_urgent_care",
+    "front": "How fast should an ECG be obtained for any adult presenting with chest pain?",
+    "back": "Within 10 minutes of arrival. This determines whether the patient has a STEMI and drives all subsequent time-sensitive decisions."
+  },
+  {
+    "id": 301,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the door to balloon time goal for STEMI at a PCI capable facility?",
+    "back": "Under 90 minutes. If transfer to a PCI facility would take too long, fibrinolytics should be given with a door to needle goal under 30 minutes."
+  },
+  {
+    "id": 302,
+    "domain": "emergent_and_urgent_care",
+    "front": "What ECG finding suggests a posterior MI and should be treated like a STEMI?",
+    "back": "ST depression in leads V1 to V3 with a tall R wave. This is a STEMI equivalent even without classic ST elevation."
+  },
+  {
+    "id": 303,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is Wellens syndrome and why does it matter?",
+    "back": "Deep symmetric T wave inversions or biphasic T waves in V2 to V3, signaling a critical proximal LAD lesion. Patients may be pain free when the ECG is taken, so it is easy to miss."
+  },
+  {
+    "id": 304,
+    "domain": "emergent_and_urgent_care",
+    "front": "What are De Winter T waves?",
+    "back": "Upsloping ST depression with tall symmetric T waves in the precordial leads, representing an acute LAD occlusion. It is another STEMI equivalent pattern."
+  },
+  {
+    "id": 305,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why should nitroglycerin be avoided in a patient with suspected right ventricular infarction?",
+    "back": "RV infarction makes the patient preload dependent, so nitrates and diuretics can cause severe hypotension. Fluid boluses are the first line treatment instead."
+  },
+  {
+    "id": 306,
+    "domain": "emergent_and_urgent_care",
+    "front": "How do you confirm right ventricular infarction on ECG?",
+    "back": "Obtain a right sided ECG and look for ST elevation in lead V4R. It classically accompanies an inferior STEMI in leads II, III, and aVF."
+  },
+  {
+    "id": 307,
+    "domain": "emergent_and_urgent_care",
+    "front": "What are the three components of the qSOFA score?",
+    "back": "Respiratory rate 22 or higher, altered mentation, and systolic blood pressure 100 mmHg or lower. Two or more positive findings should raise concern for sepsis."
+  },
+  {
+    "id": 308,
+    "domain": "emergent_and_urgent_care",
+    "front": "What must happen before antibiotics are given in suspected sepsis?",
+    "back": "Blood cultures should be drawn, but this should not delay antibiotic administration. Broad spectrum antibiotics should be given within the first hour of recognition."
+  },
+  {
+    "id": 309,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the fluid bolus recommendation in the sepsis hour-1 bundle?",
+    "back": "30 mL per kg of crystalloid for hypotension or a lactate of 4 mmol per liter or higher, given rapidly within the first hour."
+  },
+  {
+    "id": 310,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the first line vasopressor in septic shock and what MAP target is used?",
+    "back": "Norepinephrine is first line, with a goal mean arterial pressure of 65 mmHg or above if the patient remains hypotensive after fluids."
+  },
+  {
+    "id": 311,
+    "domain": "emergent_and_urgent_care",
+    "front": "What defines septic shock beyond sepsis alone?",
+    "back": "Persistent hypotension requiring vasopressors plus a lactate above 2 mmol per liter despite adequate fluid resuscitation."
+  },
+  {
+    "id": 312,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the first imaging study for a patient with sudden focal neurologic deficit?",
+    "back": "A non-contrast head CT, to distinguish ischemic stroke from hemorrhagic stroke before any treatment decision is made."
+  },
+  {
+    "id": 313,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the time window for IV alteplase in eligible ischemic stroke patients?",
+    "back": "Up to 4.5 hours from clearly known symptom onset, with additional exclusion criteria applying in the 3 to 4.5 hour window such as age over 80 or use of oral anticoagulants."
+  },
+  {
+    "id": 314,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the extended time window for mechanical thrombectomy in selected large vessel occlusion patients?",
+    "back": "Up to 24 hours using perfusion imaging to identify salvageable brain tissue, which is longer than the thrombolysis window of 4.5 hours."
+  },
+  {
+    "id": 315,
+    "domain": "emergent_and_urgent_care",
+    "front": "What blood pressure threshold must be met before giving alteplase for stroke?",
+    "back": "Blood pressure must be controlled below roughly 185/110 mmHg. Severe uncontrolled hypertension above this level is an absolute contraindication to thrombolysis."
+  },
+  {
+    "id": 316,
+    "domain": "emergent_and_urgent_care",
+    "front": "How is blood pressure managed differently in ischemic versus hemorrhagic stroke?",
+    "back": "In ischemic stroke without thrombolytics, pressure is left permissive up to 220/120. In hemorrhagic stroke, pressure is lowered more aggressively, often to a systolic target around 140, to limit hematoma expansion."
+  },
+  {
+    "id": 317,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why should glucose always be checked in a patient with suspected stroke?",
+    "back": "Hypoglycemia is a common and instantly reversible stroke mimic that can present with focal neurologic deficits."
+  },
+  {
+    "id": 318,
+    "domain": "emergent_and_urgent_care",
+    "front": "What signs suggest intubation should not be delayed in acute respiratory failure?",
+    "back": "Rapidly worsening mental status, inability to clear secretions, refractory hypoxemia despite maximal noninvasive support, and rising carbon dioxide with an abnormal respiratory rate."
+  },
+  {
+    "id": 319,
+    "domain": "emergent_and_urgent_care",
+    "front": "When is noninvasive positive pressure ventilation a poor choice?",
+    "back": "In a patient who cannot protect the airway, is vomiting, or is hemodynamically unstable. Intubation should not be delayed in these situations."
+  },
+  {
+    "id": 320,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the diagnostic triad for diabetic ketoacidosis?",
+    "back": "Hyperglycemia, ketosis, and metabolic acidosis with an elevated anion gap."
+  },
+  {
+    "id": 321,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is given first in DKA management, fluids or insulin?",
+    "back": "Isotonic fluids are given first. Starting insulin before fluid resuscitation can worsen hypotension and cause potassium to shift into cells too quickly."
+  },
+  {
+    "id": 322,
+    "domain": "emergent_and_urgent_care",
+    "front": "What potassium level requires holding insulin and replacing potassium first in DKA?",
+    "back": "Below 3.3 mEq per liter. Giving insulin at this level can precipitate dangerous arrhythmias by lowering potassium further."
+  },
+  {
+    "id": 323,
+    "domain": "emergent_and_urgent_care",
+    "front": "When should the insulin infusion be stopped in DKA treatment?",
+    "back": "Only once the acidosis resolves, meaning the anion gap normalizes and bicarbonate improves, not simply when the glucose normalizes."
+  },
+  {
+    "id": 324,
+    "domain": "emergent_and_urgent_care",
+    "front": "When should dextrose be added to IV fluids during DKA treatment?",
+    "back": "Once glucose falls below roughly 200 mg per deciliter, to prevent hypoglycemia while the insulin infusion continues to correct the acidosis."
+  },
+  {
+    "id": 325,
+    "domain": "emergent_and_urgent_care",
+    "front": "What criteria can be used to recognize anaphylaxis without a prior known allergy?",
+    "back": "Acute onset with skin or mucosal involvement plus respiratory compromise or hypotension, or likely allergen exposure plus hypotension alone or two or more organ systems involved."
+  },
+  {
+    "id": 326,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the first line treatment for anaphylaxis and where is it given?",
+    "back": "Intramuscular epinephrine in the anterolateral thigh, given immediately rather than after antihistamines or steroids."
+  },
+  {
+    "id": 327,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why is delaying epinephrine to give diphenhydramine first a dangerous error in anaphylaxis?",
+    "back": "Antihistamines do not treat the airway swelling or hypotension that actually kills patients in anaphylaxis, so they should never replace or precede epinephrine."
+  },
+  {
+    "id": 328,
+    "domain": "emergent_and_urgent_care",
+    "front": "What alternative treatment may be needed for anaphylaxis in a patient on beta blockers?",
+    "back": "Glucagon, because these patients may not respond well to epinephrine and glucagon works through a different receptor pathway."
+  },
+  {
+    "id": 329,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why should patients be observed for several hours after treated anaphylaxis?",
+    "back": "Because a biphasic reaction, a second wave of symptoms without re-exposure to the trigger, can occur hours later."
+  },
+  {
+    "id": 330,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the initial priority in a significant GI bleed, resuscitation or diagnosis?",
+    "back": "Resuscitation first. Two large bore IVs, type and crossmatch, and fluid or blood product resuscitation come before endoscopy in an unstable patient."
+  },
+  {
+    "id": 331,
+    "domain": "emergent_and_urgent_care",
+    "front": "What two treatments should be started before endoscopy in suspected variceal bleeding?",
+    "back": "Octreotide and prophylactic antibiotics, since both reduce mortality and rebleeding risk in cirrhotic patients."
+  },
+  {
+    "id": 332,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why is aggressive crystalloid resuscitation risky in variceal GI bleeding?",
+    "back": "Over-resuscitation can raise portal pressure and worsen bleeding, so a more restrictive transfusion strategy is generally preferred once major instability is addressed."
+  },
+  {
+    "id": 333,
+    "domain": "emergent_and_urgent_care",
+    "front": "What hemoglobin threshold is generally used for transfusion in stable GI bleed patients?",
+    "back": "Around 7 grams per deciliter, though a higher threshold may be used in patients with active cardiac disease or ongoing brisk bleeding."
+  },
+  {
+    "id": 334,
+    "domain": "emergent_and_urgent_care",
+    "front": "What does the mnemonic AEIOU TIPS cover in the workup of altered mental status?",
+    "back": "Alcohol, Epilepsy or Electrolytes, Infection, Overdose or Oxygen, Uremia, Trauma or Temperature, Insulin or metabolic causes, Psychiatric causes, and Stroke or Shock."
+  },
+  {
+    "id": 335,
+    "domain": "emergent_and_urgent_care",
+    "front": "What are the first three actions for any patient with altered mental status?",
+    "back": "A rapid glucose check, pulse oximetry, and a focused neurologic exam, since hypoglycemia and hypoxia are instantly reversible causes."
+  },
+  {
+    "id": 336,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why is infection an important cause of altered mental status in older adults specifically?",
+    "back": "Infection, especially UTI or pneumonia, frequently causes confusion in the elderly even without fever, sometimes called silent sepsis in this population."
+  },
+  {
+    "id": 337,
+    "domain": "emergent_and_urgent_care",
+    "front": "How is delirium distinguished from dementia?",
+    "back": "By its acute onset and fluctuating course. Assuming chronic dementia in a patient with a genuinely new acute change can cause a serious treatable cause to be missed."
+  },
+  {
+    "id": 338,
+    "domain": "emergent_and_urgent_care",
+    "front": "What red flags in a syncope history suggest a cardiac cause?",
+    "back": "Syncope during exertion, syncope while supine, chest pain or palpitations before the event, family history of sudden cardiac death, an abnormal ECG, or known structural heart disease."
+  },
+  {
+    "id": 339,
+    "domain": "emergent_and_urgent_care",
+    "front": "What ECG findings raise concern for an arrhythmic cause of syncope?",
+    "back": "Prolonged QT interval, a Brugada pattern, or evidence of a prior myocardial infarction."
+  },
+  {
+    "id": 340,
+    "domain": "emergent_and_urgent_care",
+    "front": "What three things should every patient with syncope receive during initial evaluation?",
+    "back": "An ECG, orthostatic vital signs, and a careful history of events immediately before and after the episode."
+  },
+  {
+    "id": 341,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why is syncope without any warning symptoms in an older patient more concerning?",
+    "back": "Absence of a prodrome in an older patient is more suggestive of an arrhythmic cause rather than a benign vasovagal episode."
+  },
+  {
+    "id": 342,
+    "domain": "emergent_and_urgent_care",
+    "front": "What does the ABCDE primary survey stand for in trauma assessment?",
+    "back": "Airway with cervical spine protection, Breathing, Circulation with hemorrhage control, Disability using a rapid neurologic check, and Exposure with temperature control."
+  },
+  {
+    "id": 343,
+    "domain": "emergent_and_urgent_care",
+    "front": "How is a tension pneumothorax treated in the primary survey?",
+    "back": "With immediate needle or finger decompression, without waiting for imaging to confirm the diagnosis first."
+  },
+  {
+    "id": 344,
+    "domain": "emergent_and_urgent_care",
+    "front": "How should an open pneumothorax be managed?",
+    "back": "With a three sided occlusive dressing, which allows air to escape but prevents air from being drawn back into the chest."
+  },
+  {
+    "id": 345,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why can young trauma patients appear falsely stable before sudden decompensation?",
+    "back": "They can physiologically compensate for significant blood loss until they suddenly cannot, so shock must be recognized early using vital signs, skin findings, and mental status rather than waiting for hypotension."
+  },
+  {
+    "id": 346,
+    "domain": "emergent_and_urgent_care",
+    "front": "When should the primary survey be repeated in trauma care?",
+    "back": "Whenever the patient deteriorates. The ABCDE sequence should be run again from the beginning rather than jumping straight to a single suspected cause."
+  },
+  {
+    "id": 347,
+    "domain": "emergent_and_urgent_care",
+    "front": "What comes after the primary survey is complete in trauma care?",
+    "back": "The secondary survey, a more detailed head to toe examination and history, performed only after all immediately life threatening problems have been identified and treated."
+  },
+  {
+    "id": 348,
+    "domain": "emergent_and_urgent_care",
+    "front": "What sequencing trap is common across sepsis, DKA, and anaphylaxis management?",
+    "back": "Blood cultures before antibiotics in sepsis, fluids before insulin in DKA, and epinephrine before antihistamines in anaphylaxis. Order of treatment matters as much as the treatment itself."
+  },
+  {
+    "id": 349,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the general management principle for right ventricular infarction that differs from typical inferior MI care?",
+    "back": "These patients are preload dependent, so nitrates and diuretics are avoided and fluid boluses are used instead to maintain adequate right ventricular filling."
+  },
+  {
+    "id": 350,
+    "domain": "emergent_and_urgent_care",
+    "front": "What chest pain features in an outpatient clinic mandate calling EMS instead of having the patient drive to the ED?",
+    "back": "Syncope with chest pain, signs of new heart failure, hypotension, and pain worsening despite rest. These suggest an unstable cardiac event needing immediate transport and monitoring, not self-transport."
+  },
+  {
+    "id": 351,
+    "domain": "emergent_and_urgent_care",
+    "front": "What chest pain history should make you think aortic dissection instead of ACS?",
+    "back": "Tearing or ripping pain radiating to the back, a pulse or blood pressure difference between the arms, and a widened mediastinum on chest x-ray. Giving aspirin or anticoagulants here is dangerous and wrong."
+  },
+  {
+    "id": 352,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the fever cutoff and required workup for an infant younger than 28 days old?",
+    "back": "A rectal temperature of 100.4 Fahrenheit or higher requires a full sepsis evaluation: blood culture, catheterized urine culture, and cerebrospinal fluid analysis, plus empiric antibiotics and admission. Sending home is never correct."
+  },
+  {
+    "id": 353,
+    "domain": "emergent_and_urgent_care",
+    "front": "How is a febrile infant 29 to 60 days old generally managed?",
+    "back": "Still considered high risk. Even with newer low-risk criteria available, the safe default is a full or near-full evaluation with strong consideration of admission, especially if inflammatory markers are elevated or the infant looks ill."
+  },
+  {
+    "id": 354,
+    "domain": "emergent_and_urgent_care",
+    "front": "A fully vaccinated, well-appearing toddler has fever without an identifiable source. What is the appropriate workup?",
+    "back": "Generally no aggressive workup is needed. Pneumococcal and Hib vaccines have dramatically reduced occult bacteremia risk in this group, unlike unvaccinated or under-vaccinated children who need a lower threshold for labs."
+  },
+  {
+    "id": 355,
+    "domain": "emergent_and_urgent_care",
+    "front": "Name pediatric fever red flags that push toward emergent transfer regardless of age.",
+    "back": "Lethargy, poor feeding, decreased urine output, petechial rash, and a bulging fontanelle in an infant. These indicate the child is ill-appearing, which matters more than the fever number itself."
+  },
+  {
+    "id": 356,
+    "domain": "emergent_and_urgent_care",
+    "front": "What peak flow percentage and clinical signs indicate a severe asthma exacerbation needing emergency transfer?",
+    "back": "Peak flow below 40 percent of predicted, inability to speak in full sentences, accessory muscle use, and a silent chest on auscultation. Oxygen saturation below 90 percent or altered mental status are also ominous."
+  },
+  {
+    "id": 357,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why can a suddenly calmer-looking asthma patient be a warning sign rather than reassurance?",
+    "back": "A patient who was working hard to breathe and then appears to relax without objective improvement may actually be tiring out and heading toward respiratory failure, not truly improving."
+  },
+  {
+    "id": 358,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why can pulse oximetry be misleading in a COPD exacerbation?",
+    "back": "COPD patients who chronically retain carbon dioxide can have falsely reassuring oxygen saturation. Mental status and work of breathing must be assessed directly rather than relying on pulse ox alone."
+  },
+  {
+    "id": 359,
+    "domain": "emergent_and_urgent_care",
+    "front": "Within what time window can a clean, minor wound generally be closed primarily?",
+    "back": "Within 6 to 8 hours of injury, though this window can extend on the face due to its excellent blood supply. Heavily contaminated wounds, bites, or wounds over 12 to 24 hours old are usually left open."
+  },
+  {
+    "id": 360,
+    "domain": "emergent_and_urgent_care",
+    "front": "A patient with a clean minor wound and 3 or more prior tetanus doses needs a booster if how much time has passed?",
+    "back": "More than 10 years since the last dose. For a dirty or tetanus-prone wound, that threshold tightens to more than 5 years."
+  },
+  {
+    "id": 361,
+    "domain": "emergent_and_urgent_care",
+    "front": "A patient with an unknown or incomplete tetanus vaccination history (fewer than 3 doses) has a dirty, tetanus-prone wound. What is needed?",
+    "back": "Both tetanus toxoid vaccine and tetanus immune globulin, given at separate injection sites."
+  },
+  {
+    "id": 362,
+    "domain": "emergent_and_urgent_care",
+    "front": "Which animal bite type carries a particularly high infection risk and often needs prophylactic antibiotics?",
+    "back": "Cat bites and hand wounds, typically treated with amoxicillin-clavulanate. Human bites also carry high polymicrobial infection risk and are generally not closed primarily."
+  },
+  {
+    "id": 363,
+    "domain": "emergent_and_urgent_care",
+    "front": "What diagnostic criteria define anaphylaxis rather than a localized allergic reaction?",
+    "back": "Acute onset with skin or mucosal involvement plus respiratory compromise or low blood pressure, OR two or more organ systems involved after allergen exposure, OR hypotension after exposure to a known allergen for that patient."
+  },
+  {
+    "id": 364,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the first-line treatment for anaphylaxis and why should it never be delayed?",
+    "back": "Intramuscular epinephrine in the anterolateral thigh, given immediately. It is the only agent proven to reverse the airway and cardiovascular collapse of anaphylaxis; antihistamines and steroids are adjuncts, not substitutes."
+  },
+  {
+    "id": 365,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why must every anaphylaxis patient be transported for observation even after apparent full recovery?",
+    "back": "Biphasic reactions can occur hours later, typically 4 to 12 hours after the initial episode, sometimes even later. Sending the patient home directly from clinic is unsafe."
+  },
+  {
+    "id": 366,
+    "domain": "emergent_and_urgent_care",
+    "front": "What are the clinical signs of moderate dehydration (roughly 6 to 9 percent body weight loss) in a child?",
+    "back": "Sunken eyes, decreased skin turgor, delayed capillary refill, and reduced urine output. A trial of oral rehydration in clinic with reassessment is appropriate, sometimes aided by ondansetron if vomiting limits intake."
+  },
+  {
+    "id": 367,
+    "domain": "emergent_and_urgent_care",
+    "front": "What signs indicate severe pediatric dehydration requiring emergency IV or intraosseous fluids?",
+    "back": "Lethargy, sunken fontanelle in infants, capillary refill greater than 3 seconds, cool mottled extremities, and minimal or absent urine output. Oral rehydration alone is unsafe at this severity."
+  },
+  {
+    "id": 368,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why is hypotension considered a late and worrisome finding in a dehydrated or shocked child?",
+    "back": "Children compensate well physiologically, so tachycardia out of proportion to fever often precedes blood pressure drops. By the time hypotension appears, the child may already be in decompensated shock."
+  },
+  {
+    "id": 369,
+    "domain": "emergent_and_urgent_care",
+    "front": "What exam findings distinguish acute angle-closure glaucoma from simple conjunctivitis?",
+    "back": "Angle-closure glaucoma causes severe eye pain, headache, nausea and vomiting, a fixed mid-dilated pupil, a hazy cornea, and markedly elevated intraocular pressure. Conjunctivitis has redness and discharge but normal pupil, normal vision, and no severe pain."
+  },
+  {
+    "id": 370,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the classic presentation and key exam finding of central retinal artery occlusion?",
+    "back": "Sudden, painless, profound monocular vision loss described as a curtain coming down, with a pale retina and cherry-red spot at the macula on exam. Treatment window is narrow, generally under 4 to 6 hours."
+  },
+  {
+    "id": 371,
+    "domain": "emergent_and_urgent_care",
+    "front": "How do you distinguish orbital cellulitis from preseptal cellulitis?",
+    "back": "Orbital cellulitis has pain with eye movement, proptosis, decreased visual acuity, and restricted extraocular movements, requiring IV antibiotics and CT imaging. Preseptal cellulitis is confined to the eyelid without these orbital signs and can often be treated orally as an outpatient."
+  },
+  {
+    "id": 372,
+    "domain": "emergent_and_urgent_care",
+    "front": "What does Hutchinson's sign indicate in a patient with facial vesicles?",
+    "back": "Vesicles on the tip of the nose in herpes zoster ophthalmicus suggest nasociliary nerve involvement, indicating a high risk of ocular complications and the need for urgent ophthalmology evaluation."
+  },
+  {
+    "id": 373,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the immediate first step for any chemical exposure to the eye, before history or exam?",
+    "back": "Immediate copious irrigation. This takes priority over obtaining a detailed history or performing a full exam, since delay worsens tissue damage."
+  },
+  {
+    "id": 374,
+    "domain": "emergent_and_urgent_care",
+    "front": "What physical exam findings suggest testicular torsion rather than epididymitis?",
+    "back": "A high-riding, horizontally lying testicle and an absent cremasteric reflex on the affected side, with diffuse tenderness. Epididymitis usually has a normal-lying testicle and a positive cremasteric reflex."
+  },
+  {
+    "id": 375,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why is the Prehn sign unreliable in evaluating suspected testicular torsion?",
+    "back": "Relief of pain with testicular elevation is classically linked to epididymitis, but it is inconsistent and should never be used to rule out torsion, since testicular salvage depends on rapid, accurate diagnosis."
+  },
+  {
+    "id": 376,
+    "domain": "emergent_and_urgent_care",
+    "front": "What are the approximate testicular salvage rates at 6, 12, and beyond 24 hours after torsion onset?",
+    "back": "Greater than 90 percent within 6 hours, dropping to near 50 percent by 12 hours, and very low beyond 24 hours. This narrow window is why suspected torsion needs immediate urology consultation."
+  },
+  {
+    "id": 377,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why should clinicians avoid waiting for ultrasound confirmation when torsion is strongly suspected clinically?",
+    "back": "A normal or equivocal ultrasound does not exclude torsion, especially intermittent torsion, and should never override strong clinical suspicion. Delaying surgery for imaging risks losing the testicle."
+  },
+  {
+    "id": 378,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why is a button battery in the ear or nose considered the most urgent foreign body scenario?",
+    "back": "It can cause liquefactive tissue necrosis within hours through electrical current and chemical burn. Emergent removal, generally within 2 hours if possible, is required, and observation is never appropriate."
+  },
+  {
+    "id": 379,
+    "domain": "emergent_and_urgent_care",
+    "front": "How should a live insect in the ear canal be managed before removal?",
+    "back": "Kill it first, typically by instilling mineral oil or lidocaine into the canal, before attempting extraction. This reduces pain and struggling during removal."
+  },
+  {
+    "id": 380,
+    "domain": "emergent_and_urgent_care",
+    "front": "What nasal foreign bodies or patient factors should prompt ENT referral instead of clinic removal attempts?",
+    "back": "Objects that are round, smooth, or posteriorly located, or an uncooperative child at risk of the object being pushed toward the airway. Repeated forceful attempts in clinic risk aspiration."
+  },
+  {
+    "id": 381,
+    "domain": "emergent_and_urgent_care",
+    "front": "What eye exam findings suggest a penetrating globe injury requiring emergency ophthalmology referral?",
+    "back": "An irregularly shaped pupil, visible prolapsed uveal tissue, or a positive Seidel sign showing aqueous leakage. Use an eye shield, not a pressure patch, and avoid further manipulation."
+  },
+  {
+    "id": 382,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the first step when evaluating any painful red eye for a corneal foreign body?",
+    "back": "Fluorescein staining to assess for a corneal abrasion, plus eyelid eversion to check for a hidden foreign body under the upper lid."
+  },
+  {
+    "id": 383,
+    "domain": "emergent_and_urgent_care",
+    "front": "What three questions form the triage framework for urgent ambulatory presentations?",
+    "back": "Is there an unstable airway, breathing, or circulation problem. Is there a narrow time window in which intervention changes outcome. Does the patient fall into a high-risk category by age or comorbidity."
+  },
+  {
+    "id": 384,
+    "domain": "emergent_and_urgent_care",
+    "front": "Give three examples of conditions with a narrow, well-defined treatment time window discussed in this chapter.",
+    "back": "Testicular torsion (testicle salvage drops sharply after 6 hours), central retinal artery occlusion (under 4 to 6 hours), and button battery ingestion or insertion (ideally removed within 2 hours)."
+  },
+  {
+    "id": 385,
+    "domain": "emergent_and_urgent_care",
+    "front": "What ECG or exam finding on a suspected PE workup should prompt use of a formal risk score rather than reassurance alone?",
+    "back": "Pleuritic chest pain after a recent long flight or surgery. Wells criteria plus D-dimer or imaging should guide the decision, not clinical reassurance alone."
+  },
+  {
+    "id": 386,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the recommended dose and route of aspirin for suspected ACS in clinic while awaiting EMS?",
+    "back": "325 mg chewed, given while awaiting transport, as long as there is no contraindication such as an active bleeding disorder or true aspirin allergy."
+  },
+  {
+    "id": 387,
+    "domain": "emergent_and_urgent_care",
+    "front": "In a peak flow assessment for asthma, what percentage of predicted value indicates the patient has improved enough for possible outpatient management?",
+    "back": "Above 70 percent of predicted, combined with a period of observation without recurrence of symptoms after standard bronchodilator therapy."
+  },
+  {
+    "id": 388,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why are human bite wounds generally not closed primarily?",
+    "back": "They carry a significant risk of polymicrobial infection. Delayed closure or leaving the wound open reduces the risk of trapping bacteria under a sutured wound."
+  },
+  {
+    "id": 389,
+    "domain": "emergent_and_urgent_care",
+    "front": "What adjunct medication can improve success of oral rehydration therapy in a vomiting child?",
+    "back": "Ondansetron. It can reduce vomiting enough to allow successful oral rehydration and avoid the need for IV fluids in moderately dehydrated children."
+  },
+  {
+    "id": 390,
+    "domain": "emergent_and_urgent_care",
+    "front": "What percentage of body weight loss defines mild pediatric dehydration, and how is it managed?",
+    "back": "Roughly 3 to 5 percent, presenting with slightly dry mucous membranes and normal vital signs. It can be managed with oral rehydration solution at home and close follow-up instructions."
+  },
+  {
+    "id": 391,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why should a patient with suspected acute angle-closure glaucoma not simply be treated as conjunctivitis?",
+    "back": "Angle-closure glaucoma causes permanent vision loss within hours if untreated. The severe pain, fixed mid-dilated pupil, and elevated intraocular pressure distinguish it and require immediate ophthalmologic referral."
+  },
+  {
+    "id": 392,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why does central retinal artery occlusion warrant urgent systemic workup even beyond the treatment window for vision?",
+    "back": "It represents an ocular stroke and a marker of systemic vascular disease, so urgent cardiovascular and stroke workup is needed regardless of whether vision can still be salvaged."
+  },
+  {
+    "id": 393,
+    "domain": "emergent_and_urgent_care",
+    "front": "What imaging is used to evaluate for orbital cellulitis and possible abscess?",
+    "back": "CT imaging of the orbit, along with IV antibiotics and often ophthalmology or ENT consultation, because untreated infection can spread to the cavernous sinus or intracranial space."
+  },
+  {
+    "id": 394,
+    "domain": "emergent_and_urgent_care",
+    "front": "What historical and exam features suggest epididymitis rather than testicular torsion?",
+    "back": "A more gradual onset, a normal-lying testicle, a positive cremasteric reflex, and often urinary symptoms or known sexually transmitted infection risk. It can be managed with outpatient antibiotics."
+  },
+  {
+    "id": 395,
+    "domain": "emergent_and_urgent_care",
+    "front": "What techniques can be tried before instrumentation for a cooperative child with a nasal foreign body?",
+    "back": "Having the child blow their nose forcefully while occluding the unaffected nostril, or using positive pressure from a parent's breath into the child's mouth, sometimes called the parent's kiss technique."
+  },
+  {
+    "id": 396,
+    "domain": "emergent_and_urgent_care",
+    "front": "What does a rust ring around a corneal foreign body indicate and what follow-up may be needed?",
+    "back": "It indicates a retained metallic foreign body that has begun to oxidize. Referral for ring removal may be needed if it cannot be fully cleared in clinic."
+  },
+  {
+    "id": 397,
+    "domain": "emergent_and_urgent_care",
+    "front": "Why should reproducible chest wall tenderness on palpation not fully reassure a clinician about cardiac risk?",
+    "back": "It lowers but does not eliminate the probability of cardiac disease, especially in older patients or those with cardiac risk factors, so it should not be used alone to rule out ACS."
+  },
+  {
+    "id": 398,
+    "domain": "emergent_and_urgent_care",
+    "front": "What should be prescribed and taught before discharging a patient after an anaphylaxis episode?",
+    "back": "An epinephrine auto-injector with proper technique training, along with a referral to allergy for further evaluation and management."
+  },
+  {
+    "id": 399,
+    "domain": "emergent_and_urgent_care",
+    "front": "What is the general rule for deciding outpatient management versus emergency transfer across all urgent presentations in this chapter?",
+    "back": "If there is airway, breathing, or circulation instability, a narrow time-critical window, or a high-risk age or comorbidity category, emergency transfer is the safe answer. If all three are clearly absent and follow-up is reliable, outpatient management with return precautions is appropriate."
+  },
+  {
+    "id": 400,
+    "domain": "preventive_care",
+    "front": "What does a USPSTF Grade A recommendation mean?",
+    "back": "There is high certainty of substantial net benefit. The service should be offered to eligible patients. Grade A and B services must be covered by most insurance plans with no cost sharing under the ACA."
+  },
+  {
+    "id": 401,
+    "domain": "preventive_care",
+    "front": "What does a USPSTF Grade C recommendation mean?",
+    "back": "The net benefit is small, so the service should be offered selectively based on shared decision making with the patient. It is not a blanket recommendation for or against the service."
+  },
+  {
+    "id": 402,
+    "domain": "preventive_care",
+    "front": "What does a USPSTF Grade D recommendation mean?",
+    "back": "The task force recommends against offering the service because there is moderate or high certainty of no net benefit, or that harms outweigh benefits. PSA screening in men 70 and older is a Grade D example."
+  },
+  {
+    "id": 403,
+    "domain": "preventive_care",
+    "front": "What does a USPSTF Grade I statement mean?",
+    "back": "Current evidence is insufficient to assess the balance of benefits and harms. No recommendation can be made either for or against the service based on the available evidence."
+  },
+  {
+    "id": 404,
+    "domain": "preventive_care",
+    "front": "At what age does the USPSTF recommend starting biennial mammography?",
+    "back": "Age 40, continuing through age 74. This is a Grade B recommendation that was lowered from age 50 in 2024. Evidence is insufficient for women 75 and older."
+  },
+  {
+    "id": 405,
+    "domain": "preventive_care",
+    "front": "How often should average risk women get mammograms between ages 40 and 74?",
+    "back": "Every two years, known as biennial screening. This is the USPSTF Grade B recommendation for the general population without elevated breast cancer risk factors."
+  },
+  {
+    "id": 406,
+    "domain": "preventive_care",
+    "front": "Who should be referred for BRCA genetic risk assessment?",
+    "back": "Women with a family history suggesting increased risk, such as a first degree relative with breast or ovarian cancer, or a known BRCA1 or BRCA2 mutation in the family. This is a Grade B recommendation."
+  },
+  {
+    "id": 407,
+    "domain": "preventive_care",
+    "front": "Is breast self-exam recommended as a screening method by the USPSTF?",
+    "back": "No. Breast self-exam and routine clinical breast exam are no longer recommended as separate screening maneuvers because they do not add proven benefit beyond mammography."
+  },
+  {
+    "id": 408,
+    "domain": "preventive_care",
+    "front": "At what age does cervical cancer screening begin, regardless of sexual history?",
+    "back": "Age 21. Screening does not begin earlier even in patients who became sexually active young or have multiple partners, because cervical cancer is rare before this age."
+  },
+  {
+    "id": 409,
+    "domain": "preventive_care",
+    "front": "What is the cervical screening interval for women aged 21 to 29?",
+    "back": "Cytology alone, meaning a Pap smear, every three years. HPV testing is not used as a primary screening strategy in this younger age group."
+  },
+  {
+    "id": 410,
+    "domain": "preventive_care",
+    "front": "What are the three acceptable cervical screening strategies for women aged 30 to 65?",
+    "back": "Cytology alone every three years, high risk HPV testing alone every five years, or co-testing with both cytology and HPV testing every five years."
+  },
+  {
+    "id": 411,
+    "domain": "preventive_care",
+    "front": "When can a woman stop cervical cancer screening?",
+    "back": "After age 65 if she has had adequate prior negative screening and is not otherwise high risk. Women with a total hysterectomy for benign disease also no longer need screening."
+  },
+  {
+    "id": 412,
+    "domain": "preventive_care",
+    "front": "Which hysterectomy patients still need continued cervical cancer screening?",
+    "back": "Women who had a hysterectomy for cervical cancer or a high grade precancerous lesion. They still need continued screening of the vaginal cuff even after the cervix is removed."
+  },
+  {
+    "id": 413,
+    "domain": "preventive_care",
+    "front": "At what age does average risk colorectal cancer screening begin?",
+    "back": "Age 45, continuing through age 75. This is a Grade A recommendation, lowered from age 50 due to rising colorectal cancer rates in younger adults."
+  },
+  {
+    "id": 414,
+    "domain": "preventive_care",
+    "front": "What is the USPSTF recommendation for colorectal screening in adults aged 76 to 85?",
+    "back": "It should be individualized, a Grade C recommendation, weighing health status, prior screening history, and patient preferences. Screening is not recommended after age 85."
+  },
+  {
+    "id": 415,
+    "domain": "preventive_care",
+    "front": "How often is screening colonoscopy repeated in average risk adults?",
+    "back": "Every ten years. This is one of several accepted colorectal cancer screening intervals, along with FIT annually, sigmoidoscopy every five years, and CT colonography every five years."
+  },
+  {
+    "id": 416,
+    "domain": "preventive_care",
+    "front": "How often should FIT, fecal immunochemical testing, be repeated?",
+    "back": "Annually. FIT has largely replaced older guaiac based fecal occult blood testing because it has better sensitivity and does not require dietary restriction before testing."
+  },
+  {
+    "id": 417,
+    "domain": "preventive_care",
+    "front": "When should colorectal screening start in a patient with a first degree relative diagnosed with colorectal cancer at age 45?",
+    "back": "At age 35, which is ten years before the relative's age at diagnosis, since that is earlier than the standard starting age of 40 used for this higher risk group."
+  },
+  {
+    "id": 418,
+    "domain": "preventive_care",
+    "front": "Who qualifies for annual low dose CT lung cancer screening?",
+    "back": "Adults aged 50 to 80 with a 20 pack year smoking history who currently smoke or quit within the past 15 years. This is a Grade B recommendation."
+  },
+  {
+    "id": 419,
+    "domain": "preventive_care",
+    "front": "When should lung cancer screening with low dose CT stop?",
+    "back": "Once the person has not smoked for 15 years, or if a health problem develops that substantially limits life expectancy or the ability to have curative lung surgery."
+  },
+  {
+    "id": 420,
+    "domain": "preventive_care",
+    "front": "What USPSTF grade is PSA screening for men aged 55 to 69?",
+    "back": "Grade C. The decision should be individualized after discussing potential benefits and harms with the patient, rather than ordered automatically without discussion."
+  },
+  {
+    "id": 421,
+    "domain": "preventive_care",
+    "front": "What USPSTF grade is PSA screening for men 70 and older?",
+    "back": "Grade D. The task force recommends against routine PSA screening in this age group because overdiagnosis and overtreatment risk outweighs the modest potential benefit."
+  },
+  {
+    "id": 422,
+    "domain": "preventive_care",
+    "front": "At what 10 year ASCVD risk threshold does statin therapy become a Grade B recommendation?",
+    "back": "10 percent or greater, in adults aged 40 to 75 with at least one cardiovascular risk factor such as dyslipidemia, diabetes, hypertension, or smoking."
+  },
+  {
+    "id": 423,
+    "domain": "preventive_care",
+    "front": "What ASCVD risk range makes statin initiation a Grade C, individualized decision?",
+    "back": "A 10 year risk between 7.5 and 10 percent. Below this range, routine statin initiation for primary prevention is generally not recommended."
+  },
+  {
+    "id": 424,
+    "domain": "preventive_care",
+    "front": "What inputs does the ASCVD risk calculator use?",
+    "back": "Age, sex, race, total cholesterol, HDL cholesterol, systolic blood pressure, hypertension treatment status, diabetes status, and smoking status, combined to generate a 10 year risk percentage."
+  },
+  {
+    "id": 425,
+    "domain": "preventive_care",
+    "front": "At what age is universal lipid screening recommended in children?",
+    "back": "Once between ages 9 and 11, and again between ages 17 and 21. This reflects pediatric cardiology guidance outside the USPSTF grading system."
+  },
+  {
+    "id": 426,
+    "domain": "preventive_care",
+    "front": "At what age should DEXA screening begin for average risk women?",
+    "back": "Age 65, a Grade B recommendation. Women younger than 65 with risk factors that raise fracture risk to that of a 65 year old should be screened earlier."
+  },
+  {
+    "id": 427,
+    "domain": "preventive_care",
+    "front": "What tool estimates fracture risk to decide if a younger postmenopausal woman needs earlier DEXA screening?",
+    "back": "The FRAX tool, which incorporates factors like low body weight, smoking, alcohol use, family history of hip fracture, and prior fracture history."
+  },
+  {
+    "id": 428,
+    "domain": "preventive_care",
+    "front": "What is the USPSTF recommendation on osteoporosis screening in men?",
+    "back": "A Grade I statement, meaning current evidence is insufficient. There is no formal task force mandate to screen men, unlike the firm Grade B recommendation for women 65 and older."
+  },
+  {
+    "id": 429,
+    "domain": "preventive_care",
+    "front": "How often should adults be screened for HIV according to the USPSTF?",
+    "back": "At least once between ages 15 and 65, a Grade A recommendation, with repeat screening for those at higher ongoing risk such as new or multiple sexual partners or injection drug use."
+  },
+  {
+    "id": 430,
+    "domain": "preventive_care",
+    "front": "When should pregnant women be screened for HIV?",
+    "back": "At the first prenatal visit, and again in the third trimester if they are at high risk or live in a high prevalence area."
+  },
+  {
+    "id": 431,
+    "domain": "preventive_care",
+    "front": "Who should be screened annually for chlamydia and gonorrhea?",
+    "back": "All sexually active women aged 24 and younger, and older women with risk factors, both Grade B recommendations. Evidence is insufficient for routine screening in asymptomatic men."
+  },
+  {
+    "id": 432,
+    "domain": "preventive_care",
+    "front": "What is the current USPSTF recommendation on hepatitis C screening in adults?",
+    "back": "Screen once for all adults aged 18 to 79, a Grade B recommendation, reflecting the availability of highly effective direct acting antiviral treatment."
+  },
+  {
+    "id": 433,
+    "domain": "preventive_care",
+    "front": "Who should receive syphilis screening?",
+    "back": "All pregnant women, and individuals at increased risk, including men who have sex with men and people living with HIV."
+  },
+  {
+    "id": 434,
+    "domain": "preventive_care",
+    "front": "What tool is used to screen adults for depression, and what USPSTF grade does depression screening carry?",
+    "back": "The PHQ-9, a validated questionnaire. Depression screening in all adults, including pregnant and postpartum women, is a Grade B recommendation."
+  },
+  {
+    "id": 435,
+    "domain": "preventive_care",
+    "front": "Why should depression screening only be implemented where systems for follow up exist?",
+    "back": "Because screening without accurate diagnosis, effective treatment, and appropriate follow up in place does not improve patient outcomes on its own."
+  },
+  {
+    "id": 436,
+    "domain": "preventive_care",
+    "front": "What tool is used for anxiety screening in adults younger than 65?",
+    "back": "The GAD-7. Anxiety screening is a Grade B recommendation, added more recently than the long standing depression screening recommendation."
+  },
+  {
+    "id": 437,
+    "domain": "preventive_care",
+    "front": "What tool screens for unhealthy alcohol use in primary care?",
+    "back": "AUDIT-C, a brief validated tool. Screening is a Grade B recommendation for all adults, followed by brief behavioral counseling for those who screen positive."
+  },
+  {
+    "id": 438,
+    "domain": "preventive_care",
+    "front": "What are the 5 A's of tobacco use counseling?",
+    "back": "Ask, Advise, Assess, Assist, and Arrange. This is a Grade A recommendation for adults, including pregnant women, and one of the highest yield interventions in primary care."
+  },
+  {
+    "id": 439,
+    "domain": "preventive_care",
+    "front": "At what BMI is referral to intensive behavioral intervention recommended for obesity?",
+    "back": "A BMI of 30 or greater. Screening for obesity using BMI in all adults is a Grade B recommendation."
+  },
+  {
+    "id": 440,
+    "domain": "preventive_care",
+    "front": "At what age range does diabetes and prediabetes screening begin for overweight or obese adults?",
+    "back": "Ages 35 to 70, a Grade B recommendation. This was lowered from age 40 in a recent update, a common exam trap for those who learned the older cutoff."
+  },
+  {
+    "id": 441,
+    "domain": "preventive_care",
+    "front": "What tests can be used to screen for diabetes and prediabetes?",
+    "back": "Fasting glucose, hemoglobin A1c, or an oral glucose tolerance test. All three are acceptable screening options in overweight or obese adults aged 35 to 70."
+  },
+  {
+    "id": 442,
+    "domain": "preventive_care",
+    "front": "What should happen if a patient screens positive for prediabetes?",
+    "back": "Referral to an effective preventive intervention, such as an intensive lifestyle behavioral counseling program, since this reduces progression to overt type 2 diabetes."
+  },
+  {
+    "id": 443,
+    "domain": "preventive_care",
+    "front": "How often is influenza vaccination recommended for adults and children?",
+    "back": "Annually, for essentially everyone aged 6 months and older, with rare exceptions for documented severe allergy to a vaccine component."
+  },
+  {
+    "id": 444,
+    "domain": "preventive_care",
+    "front": "At what age is the recombinant shingles vaccine recommended to start?",
+    "back": "Age 50, given in two doses, regardless of prior shingles history or prior receipt of the older live zoster vaccine."
+  },
+  {
+    "id": 445,
+    "domain": "preventive_care",
+    "front": "How often should adults receive a Td or Tdap booster?",
+    "back": "Every 10 years. A one time Tdap dose is substituted for one Td booster if the patient has never received Tdap as an adult."
+  },
+  {
+    "id": 446,
+    "domain": "preventive_care",
+    "front": "Why are live vaccines like MMR and varicella generally avoided in pregnancy and immunocompromise?",
+    "back": "Because a live attenuated vaccine carries theoretical risk of causing disease in a host with reduced immune defenses. Inactivated vaccines remain safe in both situations."
+  },
+  {
+    "id": 447,
+    "domain": "preventive_care",
+    "front": "When during pregnancy is Tdap recommended?",
+    "back": "During every pregnancy, ideally between 27 and 36 weeks gestation, to maximize passive transfer of pertussis antibodies to the newborn."
+  },
+  {
+    "id": 448,
+    "domain": "preventive_care",
+    "front": "What influenza vaccine formulation is safe during pregnancy?",
+    "back": "The inactivated formulation, given during any trimester. The live attenuated nasal spray formulation is avoided in pregnancy."
+  },
+  {
+    "id": 449,
+    "domain": "preventive_care",
+    "front": "When is the RSV vaccine recommended during pregnancy?",
+    "back": "During a defined seasonal window between 32 and 36 weeks gestation, to protect the infant during the first months of life when RSV hospitalization risk is highest."
+  },
+  {
+    "id": 450,
+    "domain": "preventive_care",
+    "front": "What organization publishes the well child visit and anticipatory guidance schedule used in US pediatric primary care?",
+    "back": "The American Academy of Pediatrics, through the Bright Futures schedule, which structures visits from the newborn period through adolescence."
+  },
+  {
+    "id": 451,
+    "domain": "preventive_care",
+    "front": "At what well child visits is formal developmental screening with a standardized tool recommended?",
+    "back": "The 9, 18, and 30 month visits, regardless of whether parents have expressed any developmental concerns at that visit."
+  },
+  {
+    "id": 452,
+    "domain": "preventive_care",
+    "front": "At what ages is autism specific screening recommended?",
+    "back": "18 and 24 months, using a validated autism specific tool, even in children with no parental concerns, since early identification allows earlier intervention."
+  },
+  {
+    "id": 453,
+    "domain": "preventive_care",
+    "front": "What should prompt further evaluation on a child's growth curve?",
+    "back": "Crossing two major percentile lines in either direction for weight, length or height, or head circumference, since this can signal a growth or nutrition problem."
+  },
+  {
+    "id": 454,
+    "domain": "preventive_care",
+    "front": "What anticipatory guidance topic is emphasized at the newborn and early infancy visits?",
+    "back": "Safe sleep practices and correct car seat use, since these address the leading preventable causes of infant injury and death at this age."
+  },
+  {
+    "id": 455,
+    "domain": "preventive_care",
+    "front": "What anticipatory guidance topic is emphasized in the toddler years?",
+    "back": "Poison prevention and water safety, reflecting the toddler's increased mobility and curiosity along with limited danger awareness at this developmental stage."
+  },
+  {
+    "id": 456,
+    "domain": "preventive_care",
+    "front": "What screening tests are done at the first prenatal visit?",
+    "back": "Blood type and antibody screen, complete blood count, rubella immunity, hepatitis B surface antigen, HIV, syphilis, urine culture, and a Pap smear if due."
+  },
+  {
+    "id": 457,
+    "domain": "preventive_care",
+    "front": "When is first trimester aneuploidy screening offered in pregnancy?",
+    "back": "Between 10 and 13 weeks gestation, combining nuchal translucency ultrasound with maternal serum markers."
+  },
+  {
+    "id": 458,
+    "domain": "preventive_care",
+    "front": "When is the fetal anatomy ultrasound typically performed?",
+    "back": "Between 18 and 22 weeks gestation, to evaluate fetal structural development in detail."
+  },
+  {
+    "id": 459,
+    "domain": "preventive_care",
+    "front": "When is gestational diabetes screening performed?",
+    "back": "Between 24 and 28 weeks gestation, using a glucose challenge test, with a follow up three hour glucose tolerance test if the initial screen is abnormal."
+  },
+  {
+    "id": 460,
+    "domain": "preventive_care",
+    "front": "When is Group B streptococcus screening performed in pregnancy?",
+    "back": "Between 36 and 37 weeks gestation, close to delivery, since colonization status can change over the course of pregnancy."
+  },
+  {
+    "id": 461,
+    "domain": "preventive_care",
+    "front": "When is RhoGAM given to Rh negative mothers?",
+    "back": "At 28 weeks gestation, and again after delivery if the infant is confirmed Rh positive, to prevent maternal sensitization in future pregnancies."
+  },
+  {
+    "id": 462,
+    "domain": "preventive_care",
+    "front": "Why does a Grade C recommendation not carry a mandatory no cost sharing insurance benefit under the ACA?",
+    "back": "Only services graded A or B by the USPSTF are required to be covered by most insurance plans with no patient cost sharing under the Affordable Care Act."
+  },
+  {
+    "id": 463,
+    "domain": "preventive_care",
+    "front": "What is a common exam trap involving PSA screening in a 72 year old man requesting the test?",
+    "back": "The correct approach is to counsel against routine PSA screening in men 70 and older, a Grade D recommendation, while still respecting patient autonomy after that counseling."
+  },
+  {
+    "id": 464,
+    "domain": "preventive_care",
+    "front": "What is a common exam trap involving colorectal screening age cutoffs?",
+    "back": "Screening now begins at 45, not the older cutoff of 50, and family history of colorectal cancer or advanced adenoma before age 60 requires starting even earlier."
+  },
+  {
+    "id": 465,
+    "domain": "preventive_care",
+    "front": "What is a common exam trap involving cervical screening before age 21?",
+    "back": "Screening never begins before age 21 regardless of sexual history or number of partners, and HPV vaccination status does not change this rule."
+  },
+  {
+    "id": 466,
+    "domain": "preventive_care",
+    "front": "What pack year and quit history thresholds define eligibility for lung cancer screening?",
+    "back": "A 20 pack year smoking history, with current smoking or having quit within the past 15 years, in adults aged 50 to 80."
+  },
+  {
+    "id": 467,
+    "domain": "preventive_care",
+    "front": "Why is chlamydia and gonorrhea screening not routinely recommended in asymptomatic men?",
+    "back": "The USPSTF states current evidence is insufficient to recommend routine screening in asymptomatic men, unlike the Grade B recommendation for young sexually active women."
+  },
+  {
+    "id": 468,
+    "domain": "preventive_care",
+    "front": "What distinguishes mammography screening intervals from colorectal screening intervals?",
+    "back": "Mammography is biennial, meaning every two years, while colonoscopy is done every ten years and FIT is done annually, each modality carrying its own distinct interval."
+  },
+  {
+    "id": 469,
+    "domain": "preventive_care",
+    "front": "What is the difference between statin therapy at 10 percent ASCVD risk versus 8 percent ASCVD risk?",
+    "back": "At 10 percent or greater the recommendation is Grade B, meaning statin therapy should generally be offered. Between 7.5 and 10 percent it is Grade C, an individualized decision."
+  },
+  {
+    "id": 470,
+    "domain": "preventive_care",
+    "front": "Why is DEXA screening a firm recommendation in women but not in men?",
+    "back": "The USPSTF gives a Grade B recommendation for women 65 and older based on strong evidence, while evidence in men remains insufficient, a Grade I statement."
+  },
+  {
+    "id": 471,
+    "domain": "preventive_care",
+    "front": "What is the significance of the 5A's framework being Grade A rather than Grade B?",
+    "back": "Tobacco screening and counseling has high certainty of substantial net benefit given the enormous disease burden from smoking, earning the strongest possible recommendation grade."
+  },
+  {
+    "id": 472,
+    "domain": "preventive_care",
+    "front": "Why must a physician discuss risks and benefits before ordering a Grade C screening test?",
+    "back": "Because Grade C services have only a small net benefit, so the correct clinical approach is shared decision making rather than routine automatic ordering."
+  },
+  {
+    "id": 473,
+    "domain": "preventive_care",
+    "front": "What ties hepatitis C's shift to a Grade B recommendation for universal adult screening?",
+    "back": "The availability of highly effective direct acting antiviral treatment, which changed the overall risk to benefit calculation in favor of broader screening."
+  },
+  {
+    "id": 474,
+    "domain": "preventive_care",
+    "front": "Why is knowing exact boundary ages, like 39 versus 40 or 64 versus 65, important for this exam?",
+    "back": "Exam writers frequently place patients exactly at a transition age to test whether the learner has memorized the precise USPSTF cutoff rather than a rough approximation."
+  },
+  {
+    "id": 475,
+    "domain": "foundations_of_care",
+    "front": "What does SnNout mean?",
+    "back": "A highly Sensitive test, when Negative, rules a disease out. Sensitivity is the chance a test is positive when disease is truly present. It does not tell you how likely disease actually is after a positive result."
+  },
+  {
+    "id": 476,
+    "domain": "foundations_of_care",
+    "front": "What does SpPin mean?",
+    "back": "A highly Specific test, when Positive, rules a disease in. Specificity is the chance a test is negative when disease is truly absent. Like sensitivity, it is a fixed property of the test itself."
+  },
+  {
+    "id": 477,
+    "domain": "foundations_of_care",
+    "front": "How does prevalence affect PPV and NPV?",
+    "back": "As disease prevalence falls, positive predictive value falls even if sensitivity and specificity stay the same. This is because false positives make up a larger share of all positive results when true disease is rare. NPV rises as prevalence falls for the same reason."
+  },
+  {
+    "id": 478,
+    "domain": "foundations_of_care",
+    "front": "Do sensitivity and specificity change with disease prevalence?",
+    "back": "No. Sensitivity and specificity are intrinsic properties of the test and stay constant regardless of how common the disease is in the tested population. Only PPV and NPV shift with prevalence."
+  },
+  {
+    "id": 479,
+    "domain": "foundations_of_care",
+    "front": "How is number needed to treat (NNT) calculated?",
+    "back": "NNT equals 1 divided by the absolute risk reduction. Absolute risk reduction is the control group's event rate minus the treatment group's event rate. A lower NNT means a more effective treatment."
+  },
+  {
+    "id": 480,
+    "domain": "foundations_of_care",
+    "front": "How is number needed to harm (NNH) calculated?",
+    "back": "NNH equals 1 divided by the absolute risk increase caused by a treatment. A higher NNH is better because it means the harmful side effect happens less often. NNH and NNT are compared to judge whether a treatment's benefit outweighs its risk."
+  },
+  {
+    "id": 481,
+    "domain": "foundations_of_care",
+    "front": "If a drug cuts a bad outcome from 20 percent to 10 percent, what is the NNT?",
+    "back": "The absolute risk reduction is 20 percent minus 10 percent, which is 10 percent or 0.10. NNT equals 1 divided by 0.10, which is 10. Ten patients need treatment to prevent one additional bad outcome."
+  },
+  {
+    "id": 482,
+    "domain": "foundations_of_care",
+    "front": "What makes a randomized controlled trial the strongest study design for causation?",
+    "back": "Random assignment balances both known and unknown confounding variables between the treatment and control groups. This makes any outcome difference more likely to be caused by the treatment itself. RCTs are limited by cost, time, and exposures that cannot ethically be randomized."
+  },
+  {
+    "id": 483,
+    "domain": "foundations_of_care",
+    "front": "What is the key difference between a cohort study and a case-control study?",
+    "back": "A cohort study groups people by exposure and follows them forward to see who develops the outcome. A case-control study groups people by outcome and looks backward for prior exposures. Case-control studies are efficient for rare diseases but prone to recall bias."
+  },
+  {
+    "id": 484,
+    "domain": "foundations_of_care",
+    "front": "What can and cannot a cross-sectional study tell you?",
+    "back": "A cross-sectional study measures exposure and outcome at a single point in time, so it can estimate prevalence. It cannot establish which came first, the exposure or the outcome, so it cannot prove causation."
+  },
+  {
+    "id": 485,
+    "domain": "foundations_of_care",
+    "front": "What is confounding in a study?",
+    "back": "Confounding happens when a third variable is linked to both the exposure and the outcome, creating a false appearance of association. A classic example is coffee drinking once appearing linked to lung cancer because coffee drinkers were more often smokers. Randomization in an RCT helps control for confounding."
+  },
+  {
+    "id": 486,
+    "domain": "foundations_of_care",
+    "front": "What is recall bias and which study design is most vulnerable to it?",
+    "back": "Recall bias is when study groups remember and report past exposures differently from each other. Case-control studies are especially vulnerable because people with a disease often recall past exposures differently than healthy controls. This can distort the measured association between exposure and outcome."
+  },
+  {
+    "id": 487,
+    "domain": "foundations_of_care",
+    "front": "What does a p-value actually measure?",
+    "back": "A p-value is the probability of seeing the study's result, or something more extreme, by chance alone if there were truly no real effect. A p-value below 0.05 is the conventional cutoff for statistical significance. A p-value does not measure how large or clinically important an effect is."
+  },
+  {
+    "id": 488,
+    "domain": "foundations_of_care",
+    "front": "How do you know if a relative risk or odds ratio is statistically significant from its confidence interval?",
+    "back": "If the 95 percent confidence interval crosses the number 1, the result is not statistically significant, because 1 means no difference between groups. This applies to ratio measures like relative risk and odds ratio, not to difference measures."
+  },
+  {
+    "id": 489,
+    "domain": "foundations_of_care",
+    "front": "What number indicates no effect for an absolute risk difference or mean difference, instead of 1?",
+    "back": "For a difference measure such as an absolute risk difference or a mean difference, the number that indicates no effect is 0, not 1. If the confidence interval for a difference measure crosses 0, the result is not statistically significant."
+  },
+  {
+    "id": 490,
+    "domain": "foundations_of_care",
+    "front": "What are the four required elements of informed consent?",
+    "back": "Disclosure of the diagnosis, treatment, risks, benefits, and alternatives; the patient's understanding of that information; voluntary agreement without coercion; and decision-making capacity. All four elements must be present for consent to be valid."
+  },
+  {
+    "id": 491,
+    "domain": "foundations_of_care",
+    "front": "When can a physician treat without obtaining informed consent first?",
+    "back": "In a genuine emergency where delay to obtain consent would risk life or limb and the patient cannot currently communicate, treatment can proceed under implied consent. This is an exception, not a routine substitute for consent."
+  },
+  {
+    "id": 492,
+    "domain": "foundations_of_care",
+    "front": "Under HIPAA, when can protected health information be shared without specific patient authorization?",
+    "back": "Protected health information can generally be shared without specific authorization for treatment, payment, and health care operations, known as the TPO exceptions. Sharing beyond these purposes, such as with an employer, typically requires the patient's specific authorization."
+  },
+  {
+    "id": 493,
+    "domain": "foundations_of_care",
+    "front": "What is the difference between capacity and competence?",
+    "back": "Capacity is a clinical judgment made by a treating physician about a patient's ability to understand, appreciate, reason through, and communicate a specific medical decision. Competence is a legal determination made by a court about a person's general ability to manage their own affairs. Only a judge can declare someone legally incompetent."
+  },
+  {
+    "id": 494,
+    "domain": "foundations_of_care",
+    "front": "Is decision-making capacity fixed or can it change?",
+    "back": "Capacity is decision-specific and can fluctuate over time. A patient might have capacity for a simple medication decision but lack capacity for a complex surgery decision. The same patient's capacity can also change from morning to evening, for example due to delirium."
+  },
+  {
+    "id": 495,
+    "domain": "foundations_of_care",
+    "front": "What is substituted judgment for a surrogate decision-maker?",
+    "back": "Substituted judgment means the surrogate decides as the patient would have decided, based on the patient's own known values and prior statements. This differs from the surrogate simply choosing what they personally think is best for the patient."
+  },
+  {
+    "id": 496,
+    "domain": "foundations_of_care",
+    "front": "What are social determinants of health?",
+    "back": "The non-medical conditions in which people are born, grow, live, work, and age that shape health outcomes, including income, education, housing, food access, and transportation. These factors often affect population health more than clinical care alone, so primary care should screen for and address them."
+  },
+  {
+    "id": 497,
+    "domain": "foundations_of_care",
+    "front": "What is the key eligibility difference between Medicare and Medicaid?",
+    "back": "Medicare is a federal program primarily based on age, generally 65 and older, plus certain disability and end-stage renal disease cases, and eligibility does not depend on income. Medicaid is a joint federal and state program based primarily on low income and household size, with benefits and rules that vary by state."
+  },
+  {
+    "id": 498,
+    "domain": "foundations_of_care",
+    "front": "What does each part of Medicare cover?",
+    "back": "Part A covers inpatient hospital care, Part B covers outpatient physician services, Part C (Medicare Advantage) is a private-plan alternative bundling Parts A and B, and Part D covers outpatient prescription drugs. Part C often adds extra benefits beyond original Medicare."
+  },
+  {
+    "id": 499,
+    "domain": "foundations_of_care",
+    "front": "What are the four steps of a PDSA quality improvement cycle?",
+    "back": "Plan identifies a problem, sets a measurable goal, and designs a small test of change. Do carries out the test on a limited scale. Study analyzes whether the test produced the intended improvement. Act decides to adopt, adapt, or abandon the change, and the cycle repeats."
+  },
+  {
+    "id": 500,
+    "domain": "foundations_of_care",
+    "front": "What is the difference between a Type I error and a Type II error in a clinical study?",
+    "back": "A Type I error means rejecting a true null hypothesis, concluding there is an effect when there really is not one. A Type II error means failing to reject a false null hypothesis, missing a real effect. Alpha controls the Type I error rate and is usually set at 0.05. Beta controls the Type II error rate, and power equals 1 minus beta."
+  }
+]
